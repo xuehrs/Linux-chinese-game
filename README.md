@@ -8,7 +8,7 @@ ArchLinux官方WiKi推荐游戏[直达连接](https://wiki.archlinux.org/index.p
 
 ## ArchLinux仓库的游戏
 
-不分官方和aur系列,你可以试试pacman或者aur工具
+不分官方和aur系列,你可以试试pacman或者aur工具,优先试试pacman工具能不能下载
 
 #### 中文游戏
 
@@ -26,8 +26,9 @@ freeciv 灵感来自文明帝国，回合制 策略游戏.
 ```
 0ad 类似于《帝国时代》的策略类3D游戏,需要自己下载中文语言包
 zaz 泡泡龙版祖玛
-nethack 30年文字游戏,不知道是不是网游?(纯英文)
+nethack 30多年文字游戏,不知道是不是网游?(纯英文)
 dwarffortress 单人游戏幻想游戏。你在随机生成的持久世界中控制矮人前哨或冒险家。
+minetest 我的世界
 ```
 
 #### 未知语言游戏
