@@ -1,7 +1,3 @@
----
-
----
-
 # Linux-chinese-game
 
 说明:这里是Linux中文游戏列表,测试运行环境ArchLinux.
