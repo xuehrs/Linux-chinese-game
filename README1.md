@@ -79,7 +79,20 @@ https://github.com/mevdschee/2048.c || [2048.c-git](https://aur.archlinux.org/pa
 ![截图_2018-07-01_22-21-15](README1.assets/截图_2018-07-01_22-21-15.png)
 
 
-##### The Battle for Wesnoth	韦诺之战 
+##### Quadrapassel	俄罗斯方块
+
+益智 - 休闲:将下落的方块组合在一起
+
+https://wiki.gnome.org/Apps/Quadrapassel || [quadrapassel](https://www.archlinux.org/packages/extra/x86_64/quadrapassel/)
+
+![截图_2018-07-01_23-24-27](README1.assets/截图_2018-07-01_23-24-27.png)
+
+![截图_2018-07-01_23-24-38](README1.assets/截图_2018-07-01_23-24-38.png)
+
+![截图_2018-07-01_23-24-52](README1.assets/截图_2018-07-01_23-24-52.png)
+
+
+##### The Battle for Wesnoth	韦诺之战
 
 多用户 - 回合制 - 策略游戏:免费的基于回合的战术策略游戏，具有高度的幻想主题，包括单人游戏和在线/多人游戏多人战斗。
 
