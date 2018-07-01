@@ -1,3 +1,5 @@
+[带图片的版本](README1.md)
+
 # Linux-chinese-game
 
 说明:这里是Linux中文游戏列表,测试运行环境ArchLinux.
@@ -31,6 +33,10 @@ zaz 泡泡龙版祖玛
 nethack 30多年文字游戏,不知道是不是网游?(纯英文)
 dwarffortress 单人游戏幻想游戏。你在随机生成的持久世界中控制矮人前哨或冒险家。
 minetest 我的世界
+asciiportal 
+rogue 
+stone-soup
+tome4
 ```
 
 #### 未知语言游戏
