@@ -16,35 +16,24 @@ ArchLinux官方英文WiKi推荐游戏[直达连接](https://wiki.archlinux.org/i
 
 #### 中文游戏
 
-##### DDNet	
+##### 2048	
 
-多用户 - 快节奏:Teeworlds的修改版,快节奏横向卷轴多人动作射击游戏。
+益智 - 休闲:2048之后还有什么?是4096?还是?
 
-<https://ddnet.tw/> || [ddnet ](https://aur.archlinux.org/packages/ddnet/)AUR
+https://github.com/mevdschee/2048.c || [2048.c-git](https://aur.archlinux.org/packages/2048.c-git/)AUR
 
-![截图_2018-07-01_20-52-32](assets/截图_2018-07-01_20-52-32.png)
+![截图_2018-07-01_22-39-56](assets/截图_2018-07-01_22-39-56-1530456109073.png)
 
-![截图_2018-07-01_20-49-56](assets/截图_2018-07-01_20-49-56.png)
+![截图_2018-07-01_22-40-10](assets/截图_2018-07-01_22-40-10.png)
 
-
-
-##### The Battle for Wesnoth	韦诺之战 
-
-多用户 - 回合制 - 策略游戏:免费的基于回合的战术策略游戏，具有高度的幻想主题，包括单人游戏和在线/多人游戏多人战斗。
-
-<https://www.wesnoth.org/> || [wesnoth](https://www.archlinux.org/packages/?name=wesnoth)AUR
-
-![截图_2018-07-01_21-01-47](assets/截图_2018-07-01_21-01-47.png)
-
-![截图_2018-07-01_21-02-33](assets/截图_2018-07-01_21-02-33.png)
-
+![截图_2018-07-01_22-39-26](assets/截图_2018-07-01_22-39-26.png)
 
 
 ##### Cataclysm: Dark Days Ahead	大灾变(CDDA)
 
 独立 - 生存 - 地牢 - 随机地图:这是一个生化危机版生存游戏。
 
-<http://en.cataclysmdda.com/> || [cataclysm-dda](https://www.archlinux.org/packages/?name=cataclysm-dda) || [cataclysm-dda](https://www.archlinux.org/packages/?name=cataclysm-dda) || [cataclysm-dda-ncurses](https://www.archlinux.org/packages/?name=cataclysm-dda-ncurses)AUR || [cataclysm-dda-tiles](https://www.archlinux.org/packages/?name=cataclysm-dda-tiles)AUR
+<http://en.cataclysmdda.com/> || [cataclysm-dda](https://www.archlinux.org/packages/community/x86_64/cataclysm-dda/) || [cataclysm-dda-ncurses](https://aur.archlinux.org/packages/cataclysm-dda-ncurses/)AUR || [cataclysm-dda-tiles](https://aur.archlinux.org/packages/cataclysm-dda-tiles/)AUR
 
 ![截图_2018-07-01_21-25-53](assets/截图_2018-07-01_21-25-53-1530451886402.png)
 
@@ -53,18 +42,61 @@ ArchLinux官方英文WiKi推荐游戏[直达连接](https://wiki.archlinux.org/i
 ![截图_2018-07-01_21-25-35](assets/截图_2018-07-01_21-25-35.png)
 
 
+##### DDNet	
+
+多用户 - 快节奏:Teeworlds的修改版,快节奏横向卷轴多人动作射击游戏。
+
+<https://ddnet.tw/> || [ddnet](https://aur.archlinux.org/packages/ddnet/)AUR
+
+![截图_2018-07-01_20-52-32](assets/截图_2018-07-01_20-52-32.png)
+
+![截图_2018-07-01_20-49-56](assets/截图_2018-07-01_20-49-56.png)
+
 
 ##### Freeciv
 
 多用户 - 回合制 - 策略游戏:灵感来自Microprose文明帝国。
 
-<http://freeciv.wikia.com/wiki/Main_Page> || [freeciv](https://www.archlinux.org/packages/?name=freeciv)
+<http://freeciv.wikia.com/wiki/Main_Page> || [freeciv](https://www.archlinux.org/packages/extra/x86_64/freeciv/)
 
 ![截图_2018-07-01_21-43-27](assets/截图_2018-07-01_21-43-27.png)
 
 ![截图_2018-07-01_21-44-14](assets/截图_2018-07-01_21-44-14.png)
 
 ![截图_2018-07-01_21-45-23](assets/截图_2018-07-01_21-45-23.png)
+
+
+##### FreeCol	
+
+多用户 - 回合制 - 策略游戏:基于殖民化的基于回合的策略游戏。
+
+<http://www.freecol.org/> || [freecol](https://www.archlinux.org/packages/community/any/freecol/)
+
+![截图_2018-07-01_22-19-57](assets/截图_2018-07-01_22-19-57.png)
+
+![截图_2018-07-01_22-20-32](assets/截图_2018-07-01_22-20-32.png)
+
+![截图_2018-07-01_22-21-15](assets/截图_2018-07-01_22-21-15-1530454984374.png)
+
+
+##### The Battle for Wesnoth	韦诺之战 
+
+多用户 - 回合制 - 策略游戏:免费的基于回合的战术策略游戏，具有高度的幻想主题，包括单人游戏和在线/多人游戏多人战斗。
+
+<https://www.wesnoth.org/> || [wesnoth](https://www.archlinux.org/packages/community/x86_64/wesnoth/)
+
+![截图_2018-07-01_21-01-47](assets/截图_2018-07-01_21-01-47.png)
+
+![截图_2018-07-01_21-02-33](assets/截图_2018-07-01_21-02-33.png)
+
+
+
+
+
+
+
+
+
 
 
 
