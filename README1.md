@@ -22,11 +22,11 @@ ArchLinux官方英文WiKi推荐游戏[直达连接](https://wiki.archlinux.org/i
 
 https://github.com/mevdschee/2048.c || [2048.c-git](https://aur.archlinux.org/packages/2048.c-git/)AUR
 
-![截图_2018-07-01_22-39-56](assets/截图_2018-07-01_22-39-56-1530456109073.png)
+![截图_2018-07-01_22-39-56](README1.assets/截图_2018-07-01_22-39-56.png)
 
-![截图_2018-07-01_22-40-10](assets/截图_2018-07-01_22-40-10.png)
+![截图_2018-07-01_22-40-10](README1.assets/截图_2018-07-01_22-40-10.png)
 
-![截图_2018-07-01_22-39-26](assets/截图_2018-07-01_22-39-26.png)
+![截图_2018-07-01_22-39-26](README1.assets/截图_2018-07-01_22-39-26.png)
 
 
 ##### Cataclysm: Dark Days Ahead	大灾变(CDDA)
@@ -35,11 +35,11 @@ https://github.com/mevdschee/2048.c || [2048.c-git](https://aur.archlinux.org/pa
 
 <http://en.cataclysmdda.com/> || [cataclysm-dda](https://www.archlinux.org/packages/community/x86_64/cataclysm-dda/) || [cataclysm-dda-ncurses](https://aur.archlinux.org/packages/cataclysm-dda-ncurses/)AUR || [cataclysm-dda-tiles](https://aur.archlinux.org/packages/cataclysm-dda-tiles/)AUR
 
-![截图_2018-07-01_21-25-53](assets/截图_2018-07-01_21-25-53-1530451886402.png)
+![截图_2018-07-01_21-25-53](README1.assets/截图_2018-07-01_21-25-53.png)
 
-![截图_2018-07-01_21-23-32](assets/截图_2018-07-01_21-23-32.png)
+![截图_2018-07-01_21-23-32](README1.assets/截图_2018-07-01_21-23-32.png)
 
-![截图_2018-07-01_21-25-35](assets/截图_2018-07-01_21-25-35.png)
+![截图_2018-07-01_21-25-35](README1.assets/截图_2018-07-01_21-25-35.png)
 
 
 ##### DDNet	
@@ -48,9 +48,9 @@ https://github.com/mevdschee/2048.c || [2048.c-git](https://aur.archlinux.org/pa
 
 <https://ddnet.tw/> || [ddnet](https://aur.archlinux.org/packages/ddnet/)AUR
 
-![截图_2018-07-01_20-52-32](assets/截图_2018-07-01_20-52-32.png)
+![截图_2018-07-01_20-52-32](README1.assets/截图_2018-07-01_20-52-32.png)
 
-![截图_2018-07-01_20-49-56](assets/截图_2018-07-01_20-49-56.png)
+![截图_2018-07-01_20-49-56](README1.assets/截图_2018-07-01_20-49-56.png)
 
 
 ##### Freeciv
@@ -59,11 +59,11 @@ https://github.com/mevdschee/2048.c || [2048.c-git](https://aur.archlinux.org/pa
 
 <http://freeciv.wikia.com/wiki/Main_Page> || [freeciv](https://www.archlinux.org/packages/extra/x86_64/freeciv/)
 
-![截图_2018-07-01_21-43-27](assets/截图_2018-07-01_21-43-27.png)
+![截图_2018-07-01_21-43-27](README1.assets/截图_2018-07-01_21-43-27.png)
 
-![截图_2018-07-01_21-44-14](assets/截图_2018-07-01_21-44-14.png)
+![截图_2018-07-01_21-44-14](README1.assets/截图_2018-07-01_21-44-14.png)
 
-![截图_2018-07-01_21-45-23](assets/截图_2018-07-01_21-45-23.png)
+![截图_2018-07-01_21-45-23](README1.assets/截图_2018-07-01_21-45-23.png)
 
 
 ##### FreeCol	
@@ -72,11 +72,11 @@ https://github.com/mevdschee/2048.c || [2048.c-git](https://aur.archlinux.org/pa
 
 <http://www.freecol.org/> || [freecol](https://www.archlinux.org/packages/community/any/freecol/)
 
-![截图_2018-07-01_22-19-57](assets/截图_2018-07-01_22-19-57.png)
+![截图_2018-07-01_22-19-57](README1.assets/截图_2018-07-01_22-19-57.png)
 
-![截图_2018-07-01_22-20-32](assets/截图_2018-07-01_22-20-32.png)
+![截图_2018-07-01_22-20-32](README1.assets/截图_2018-07-01_22-20-32.png)
 
-![截图_2018-07-01_22-21-15](assets/截图_2018-07-01_22-21-15-1530454984374.png)
+![截图_2018-07-01_22-21-15](README1.assets/截图_2018-07-01_22-21-15.png)
 
 
 ##### The Battle for Wesnoth	韦诺之战 
@@ -85,17 +85,17 @@ https://github.com/mevdschee/2048.c || [2048.c-git](https://aur.archlinux.org/pa
 
 <https://www.wesnoth.org/> || [wesnoth](https://www.archlinux.org/packages/community/x86_64/wesnoth/)
 
-![截图_2018-07-01_21-01-47](assets/截图_2018-07-01_21-01-47.png)
+![截图_2018-07-01_21-01-47](README1.assets/截图_2018-07-01_21-01-47.png)
 
-![截图_2018-07-01_21-02-33](assets/截图_2018-07-01_21-02-33.png)
-
-
+![截图_2018-07-01_21-02-33](README1.assets/截图_2018-07-01_21-02-33.png)
 
 
 
 
 
 
+
+![Konachan.com - 16 2girls blonde_hair boots hinamori_amu logo mashiro_rima nakayoshi peach-pit pink_hair seifuku short_hair shugo_chara skirt tie yellow_eyes](README1.assets/Konachan.com - 16 2girls blonde_hair boots hinamori_amu logo mashiro_rima nakayoshi peach-pit pink_hair seifuku short_hair shugo_chara skirt tie yellow_eyes.jpg)
 
 
 
