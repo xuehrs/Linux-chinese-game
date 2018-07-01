@@ -16,6 +16,8 @@ ArchLinux官方英文WiKi推荐游戏[直达连接](https://wiki.archlinux.org/i
 
 #### 中文游戏
 
+
+
 ##### 2048	
 
 益智 - 休闲:2048之后还有什么?是4096?还是?
@@ -27,6 +29,19 @@ https://github.com/mevdschee/2048.c || [2048.c-git](https://aur.archlinux.org/pa
 ![截图_2018-07-01_22-40-10](README1.assets/截图_2018-07-01_22-40-10.png)
 
 ![截图_2018-07-01_22-39-26](README1.assets/截图_2018-07-01_22-39-26.png)
+
+
+
+##### Aisleriot	纸牌游戏集合
+
+益智 - 休闲 - 纸牌:Aisleriot也称为Solitaire或sol,看看空当接龙玩法就知道了。
+
+https://wiki.gnome.org/Apps/Aisleriot || [aisleriot](https://www.archlinux.org/packages/extra/x86_64/aisleriot/)
+
+![截图_2018-07-02_00-23-17](../../Desktop/截图_2018-07-02_00-23-17.png)
+
+![截图_2018-07-02_00-23-48](README1.assets/截图_2018-07-02_00-23-48.png)
+
 
 
 ##### Cataclysm: Dark Days Ahead	大灾变(CDDA)
@@ -42,7 +57,8 @@ https://github.com/mevdschee/2048.c || [2048.c-git](https://aur.archlinux.org/pa
 ![截图_2018-07-01_21-25-35](README1.assets/截图_2018-07-01_21-25-35.png)
 
 
-##### DDNet	
+
+##### DDNet
 
 多用户 - 快节奏:Teeworlds的修改版,快节奏横向卷轴多人动作射击游戏。
 
@@ -51,6 +67,7 @@ https://github.com/mevdschee/2048.c || [2048.c-git](https://aur.archlinux.org/pa
 ![截图_2018-07-01_20-52-32](README1.assets/截图_2018-07-01_20-52-32.png)
 
 ![截图_2018-07-01_20-49-56](README1.assets/截图_2018-07-01_20-49-56.png)
+
 
 
 ##### Freeciv
@@ -66,6 +83,7 @@ https://github.com/mevdschee/2048.c || [2048.c-git](https://aur.archlinux.org/pa
 ![截图_2018-07-01_21-45-23](README1.assets/截图_2018-07-01_21-45-23.png)
 
 
+
 ##### FreeCol	
 
 多用户 - 回合制 - 策略游戏:基于殖民化的基于回合的策略游戏。
@@ -79,6 +97,7 @@ https://github.com/mevdschee/2048.c || [2048.c-git](https://aur.archlinux.org/pa
 ![截图_2018-07-01_22-21-15](README1.assets/截图_2018-07-01_22-21-15.png)
 
 
+
 ##### Quadrapassel	俄罗斯方块
 
 益智 - 休闲:将下落的方块组合在一起
@@ -90,6 +109,7 @@ https://wiki.gnome.org/Apps/Quadrapassel || [quadrapassel](https://www.archlinux
 ![截图_2018-07-01_23-24-38](README1.assets/截图_2018-07-01_23-24-38.png)
 
 ![截图_2018-07-01_23-24-52](README1.assets/截图_2018-07-01_23-24-52.png)
+
 
 
 ##### The Battle for Wesnoth	韦诺之战
