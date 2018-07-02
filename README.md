@@ -2,7 +2,7 @@
 
 说明:这里是Linux中文游戏列表,测试运行环境ArchLinux.
 
-ArchLinux官方英文WiKi推荐游戏[直达连接](https://wiki.archlinux.org/index.php/List_of_games)或者中文WiKi推荐游戏[直达链接](https://wiki.archlinux.org/index.php/List_of_games_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87) -  - )  
+ArchLinux官方英文WiKi推荐游戏[直达连接](https://wiki.archlinux.org/index.php/List_of_games)或者中文WiKi推荐游戏[直达链接](https://wiki.archlinux.org/index.php/List_of_games_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87) )  
 
 (这里不分中英文,英文版WiKi内容永远比中文版更新,更好,推荐优先使用英文WiKi)
 
