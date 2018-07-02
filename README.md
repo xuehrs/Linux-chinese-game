@@ -17,6 +17,6 @@ ArchLinux官方英文WiKi推荐游戏[直达连接](https://wiki.archlinux.org/i
 
 
 
-## License
+## MIT-License
 
-有关更多详细信息，请参阅[LICENSE.md](LICENSE.md)。
+有关更多详细信息，请参阅[LICENSE](LICENSE)。
