@@ -1,15 +1,3 @@
-[无图画版](README.md)
-
-# Linux-chinese-game
-
-说明:这里是Linux中文游戏列表,测试运行环境ArchLinux.
-
-ArchLinux官方英文WiKi推荐游戏[直达连接](https://wiki.archlinux.org/index.php/List_of_games)或者中文WiKi推荐游戏[直达链接](https://wiki.archlinux.org/index.php/List_of_games_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87) -  - )
-
-(这里不分中英文,英文版WiKi内容永远比中文版更新,更好,推荐优先使用英文WiKi)
-
-
-
 ## ArchLinux仓库的游戏
 
 不分官方和aur系列,你可以试试pacman或者aur工具,优先试试pacman工具能不能下载
@@ -24,11 +12,11 @@ ArchLinux官方英文WiKi推荐游戏[直达连接](https://wiki.archlinux.org/i
 
 https://github.com/mevdschee/2048.c || [2048.c-git](https://aur.archlinux.org/packages/2048.c-git/)AUR
 
-![截图_2018-07-01_22-39-56](README1.assets/截图_2018-07-01_22-39-56.png)
+![截图_2018-07-01_22-39-56](README-max.assets/截图_2018-07-01_22-39-56.png)
 
-![截图_2018-07-01_22-40-10](README1.assets/截图_2018-07-01_22-40-10.png)
+![截图_2018-07-01_22-40-10](README-max.assets/截图_2018-07-01_22-40-10.png)
 
-![截图_2018-07-01_22-39-26](README1.assets/截图_2018-07-01_22-39-26.png)
+![截图_2018-07-01_22-39-26](README-max.assets/截图_2018-07-01_22-39-26.png)
 
 
 
@@ -38,9 +26,9 @@ https://github.com/mevdschee/2048.c || [2048.c-git](https://aur.archlinux.org/pa
 
 https://wiki.gnome.org/Apps/Aisleriot || [aisleriot](https://www.archlinux.org/packages/extra/x86_64/aisleriot/)
 
-![截图_2018-07-02_00-23-17](README1.assets/截图_2018-07-02_00-23-17.png)
+![截图_2018-07-02_00-23-17](README-max.assets/截图_2018-07-02_00-23-17.png)
 
-![截图_2018-07-02_00-23-48](README1.assets/截图_2018-07-02_00-23-48.png)
+![截图_2018-07-02_00-23-48](README-max.assets/截图_2018-07-02_00-23-48.png)
 
 
 
@@ -50,11 +38,11 @@ https://wiki.gnome.org/Apps/Aisleriot || [aisleriot](https://www.archlinux.org/p
 
 <http://en.cataclysmdda.com/> || [cataclysm-dda](https://www.archlinux.org/packages/community/x86_64/cataclysm-dda/) || [cataclysm-dda-ncurses](https://aur.archlinux.org/packages/cataclysm-dda-ncurses/)AUR || [cataclysm-dda-tiles](https://aur.archlinux.org/packages/cataclysm-dda-tiles/)AUR
 
-![截图_2018-07-01_21-25-53](README1.assets/截图_2018-07-01_21-25-53.png)
+![截图_2018-07-01_21-25-53](README-max.assets/截图_2018-07-01_21-25-53.png)
 
-![截图_2018-07-01_21-23-32](README1.assets/截图_2018-07-01_21-23-32.png)
+![截图_2018-07-01_21-23-32](README-max.assets/截图_2018-07-01_21-23-32.png)
 
-![截图_2018-07-01_21-25-35](README1.assets/截图_2018-07-01_21-25-35.png)
+![截图_2018-07-01_21-25-35](README-max.assets/截图_2018-07-01_21-25-35.png)
 
 
 
@@ -64,9 +52,9 @@ https://wiki.gnome.org/Apps/Aisleriot || [aisleriot](https://www.archlinux.org/p
 
 <https://ddnet.tw/> || [ddnet](https://aur.archlinux.org/packages/ddnet/)AUR
 
-![截图_2018-07-01_20-52-32](README1.assets/截图_2018-07-01_20-52-32.png)
+![截图_2018-07-01_20-52-32](README-max.assets/截图_2018-07-01_20-52-32.png)
 
-![截图_2018-07-01_20-49-56](README1.assets/截图_2018-07-01_20-49-56.png)
+![截图_2018-07-01_20-49-56](README-max.assets/截图_2018-07-01_20-49-56.png)
 
 
 
@@ -76,11 +64,11 @@ https://wiki.gnome.org/Apps/Aisleriot || [aisleriot](https://www.archlinux.org/p
 
 <http://freeciv.wikia.com/wiki/Main_Page> || [freeciv](https://www.archlinux.org/packages/extra/x86_64/freeciv/)
 
-![截图_2018-07-01_21-43-27](README1.assets/截图_2018-07-01_21-43-27.png)
+![截图_2018-07-01_21-43-27](README-max.assets/截图_2018-07-01_21-43-27.png)
 
-![截图_2018-07-01_21-44-14](README1.assets/截图_2018-07-01_21-44-14.png)
+![截图_2018-07-01_21-44-14](README-max.assets/截图_2018-07-01_21-44-14.png)
 
-![截图_2018-07-01_21-45-23](README1.assets/截图_2018-07-01_21-45-23.png)
+![截图_2018-07-01_21-45-23](README-max.assets/截图_2018-07-01_21-45-23.png)
 
 
 
@@ -90,11 +78,11 @@ https://wiki.gnome.org/Apps/Aisleriot || [aisleriot](https://www.archlinux.org/p
 
 <http://www.freecol.org/> || [freecol](https://www.archlinux.org/packages/community/any/freecol/)
 
-![截图_2018-07-01_22-19-57](README1.assets/截图_2018-07-01_22-19-57.png)
+![截图_2018-07-01_22-19-57](README-max.assets/截图_2018-07-01_22-19-57.png)
 
-![截图_2018-07-01_22-20-32](README1.assets/截图_2018-07-01_22-20-32.png)
+![截图_2018-07-01_22-20-32](README-max.assets/截图_2018-07-01_22-20-32.png)
 
-![截图_2018-07-01_22-21-15](README1.assets/截图_2018-07-01_22-21-15.png)
+![截图_2018-07-01_22-21-15](README-max.assets/截图_2018-07-01_22-21-15.png)
 
 
 
@@ -104,9 +92,9 @@ https://wiki.gnome.org/Apps/Aisleriot || [aisleriot](https://www.archlinux.org/p
 
 https://wiki.gnome.org/Apps/Klotski || [gnome-klotski](https://www.archlinux.org/packages/extra/x86_64/gnome-klotski/)
 
-![截图_2018-07-02_11-30-29](README1.assets/截图_2018-07-02_11-30-29.png)
+![截图_2018-07-02_11-30-29](README-max.assets/截图_2018-07-02_11-30-29.png)
 
-![截图_2018-07-02_11-30-51](README1.assets/截图_2018-07-02_11-30-51.png)
+![截图_2018-07-02_11-30-51](README-max.assets/截图_2018-07-02_11-30-51.png)
 
 
 
@@ -116,11 +104,11 @@ https://wiki.gnome.org/Apps/Klotski || [gnome-klotski](https://www.archlinux.org
 
 https://wiki.gnome.org/Apps/Quadrapassel || [quadrapassel](https://www.archlinux.org/packages/extra/x86_64/quadrapassel/)
 
-![截图_2018-07-01_23-24-27](README1.assets/截图_2018-07-01_23-24-27.png)
+![截图_2018-07-01_23-24-27](README-max.assets/截图_2018-07-01_23-24-27.png)
 
-![截图_2018-07-01_23-24-38](README1.assets/截图_2018-07-01_23-24-38.png)
+![截图_2018-07-01_23-24-38](README-max.assets/截图_2018-07-01_23-24-38.png)
 
-![截图_2018-07-01_23-24-52](README1.assets/截图_2018-07-01_23-24-52.png)
+![截图_2018-07-01_23-24-52](README-max.assets/截图_2018-07-01_23-24-52.png)
 
 
 
@@ -130,9 +118,9 @@ https://wiki.gnome.org/Apps/Quadrapassel || [quadrapassel](https://www.archlinux
 
 <https://www.wesnoth.org/> || [wesnoth](https://www.archlinux.org/packages/community/x86_64/wesnoth/)
 
-![截图_2018-07-01_21-01-47](README1.assets/截图_2018-07-01_21-01-47.png)
+![截图_2018-07-01_21-01-47](README-max.assets/截图_2018-07-01_21-01-47.png)
 
-![截图_2018-07-01_21-02-33](README1.assets/截图_2018-07-01_21-02-33.png)
+![截图_2018-07-01_21-02-33](README-max.assets/截图_2018-07-01_21-02-33.png)
 
 
 
@@ -142,17 +130,15 @@ https://wiki.gnome.org/Apps/Quadrapassel || [quadrapassel](https://www.archlinux
 
 https://wiki.gnome.org/Apps/Nibbles || [gnome-nibbles](https://www.archlinux.org/packages/extra/x86_64/gnome-nibbles/)
 
-![截图_2018-07-02_11-20-06](README1.assets/截图_2018-07-02_11-20-06.png)
+![截图_2018-07-02_11-20-06](README-max.assets/截图_2018-07-02_11-20-06.png)
 
-![截图_2018-07-02_11-20-14](README1.assets/截图_2018-07-02_11-20-14.png)
+![截图_2018-07-02_11-20-14](README-max.assets/截图_2018-07-02_11-20-14.png)
 
-![截图_2018-07-02_11-20-23](README1.assets/截图_2018-07-02_11-20-23.png)
+![截图_2018-07-02_11-20-23](README-max.assets/截图_2018-07-02_11-20-23.png)
 
-![截图_2018-07-02_11-22-28](README1.assets/截图_2018-07-02_11-22-28.png)
+![截图_2018-07-02_11-22-28](README-max.assets/截图_2018-07-02_11-22-28.png)
 
-![截图_2018-07-02_11-22-42](README1.assets/截图_2018-07-02_11-22-42.png)
-
-
+![截图_2018-07-02_11-22-42](README-max.assets/截图_2018-07-02_11-22-42.png)
 
 
 
@@ -160,7 +146,9 @@ https://wiki.gnome.org/Apps/Nibbles || [gnome-nibbles](https://www.archlinux.org
 
 
 
-![Konachan.com - 16 2girls blonde_hair boots hinamori_amu logo mashiro_rima nakayoshi peach-pit pink_hair seifuku short_hair shugo_chara skirt tie yellow_eyes](README1.assets/Konachan.com - 16 2girls blonde_hair boots hinamori_amu logo mashiro_rima nakayoshi peach-pit pink_hair seifuku short_hair shugo_chara skirt tie yellow_eyes.jpg)
+
+
+![Konachan.com - 16 2girls blonde_hair boots hinamori_amu logo mashiro_rima nakayoshi peach-pit pink_hair seifuku short_hair shugo_chara skirt tie yellow_eyes](README-max.assets/Konachan.com - 16 2girls blonde_hair boots hinamori_amu logo mashiro_rima nakayoshi peach-pit pink_hair seifuku short_hair shugo_chara skirt tie yellow_eyes.jpg)
 
 
 
