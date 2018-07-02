@@ -12,3 +12,11 @@ ArchLinux官方英文WiKi推荐游戏[直达连接](https://wiki.archlinux.org/i
 收录要求:Arch Linux能够正常运行,无重大Bug的游戏.如果是AUR里的游戏,建议请在@我之前,测试下能否正常安装和运行。当然你也可以添加你自己做的游戏，但是你需要提供包的地址或者makepkg脚本的。
 
 这里有个[模板](项目模板.md)，你可以按照需要来添加你喜欢的游戏。
+
+
+
+
+
+## License
+
+有关更多详细信息，请参阅[LICENSE.md](LICENSE.md)。
