@@ -98,9 +98,21 @@ https://wiki.gnome.org/Apps/Aisleriot || [aisleriot](https://www.archlinux.org/p
 
 
 
+##### Klotski	华容道
+
+益智 - 休闲:前前后后左右皆是追兵,曹操走得了吗?灵感来自曹操退走华容道。
+
+https://wiki.gnome.org/Apps/Klotski || [gnome-klotski](https://www.archlinux.org/packages/extra/x86_64/gnome-klotski/)
+
+![截图_2018-07-02_11-30-29](README1.assets/截图_2018-07-02_11-30-29.png)
+
+![截图_2018-07-02_11-30-51](README1.assets/截图_2018-07-02_11-30-51.png)
+
+
+
 ##### Quadrapassel	俄罗斯方块
 
-益智 - 休闲:将下落的方块组合在一起
+益智 - 休闲:将下落的方块组合在一起。
 
 https://wiki.gnome.org/Apps/Quadrapassel || [quadrapassel](https://www.archlinux.org/packages/extra/x86_64/quadrapassel/)
 
@@ -121,6 +133,26 @@ https://wiki.gnome.org/Apps/Quadrapassel || [quadrapassel](https://www.archlinux
 ![截图_2018-07-01_21-01-47](README1.assets/截图_2018-07-01_21-01-47.png)
 
 ![截图_2018-07-01_21-02-33](README1.assets/截图_2018-07-01_21-02-33.png)
+
+
+
+##### Nibbles	贪吃蛇
+
+休闲 - 多人: 小蛇游走于迷宫
+
+https://wiki.gnome.org/Apps/Nibbles || [gnome-nibbles](https://www.archlinux.org/packages/extra/x86_64/gnome-nibbles/)
+
+![截图_2018-07-02_11-20-06](README1.assets/截图_2018-07-02_11-20-06.png)
+
+![截图_2018-07-02_11-20-14](README1.assets/截图_2018-07-02_11-20-14.png)
+
+![截图_2018-07-02_11-20-23](README1.assets/截图_2018-07-02_11-20-23.png)
+
+![截图_2018-07-02_11-22-28](README1.assets/截图_2018-07-02_11-22-28.png)
+
+![截图_2018-07-02_11-22-42](README1.assets/截图_2018-07-02_11-22-42.png)
+
+
 
 
 
