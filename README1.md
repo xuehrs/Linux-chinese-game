@@ -38,7 +38,7 @@ https://github.com/mevdschee/2048.c || [2048.c-git](https://aur.archlinux.org/pa
 
 https://wiki.gnome.org/Apps/Aisleriot || [aisleriot](https://www.archlinux.org/packages/extra/x86_64/aisleriot/)
 
-![截图_2018-07-02_00-23-17](../../Desktop/截图_2018-07-02_00-23-17.png)
+![截图_2018-07-02_00-23-17](README1.assets/截图_2018-07-02_00-23-17.png)
 
 ![截图_2018-07-02_00-23-48](README1.assets/截图_2018-07-02_00-23-48.png)
 
