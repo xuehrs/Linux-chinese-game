@@ -234,6 +234,18 @@ https://wiki.gnome.org/Apps/Mahjongg || [gnome-mahjongg](https://www.archlinux.o
 
 
 
+### MegaGlest
+
+需要手动设置中文
+
+https://megaglest.org
+
+![截图_2018-07-03_14-52-57](README-max.assets/截图_2018-07-03_14-52-57.png)
+
+![截图_2018-07-03_14-57-03](README-max.assets/截图_2018-07-03_14-57-03.png)
+
+
+
 ### Mines	扫雷
 
 扫除雷区里的隐藏的地雷
@@ -241,6 +253,18 @@ https://wiki.gnome.org/Apps/Mahjongg || [gnome-mahjongg](https://www.archlinux.o
 https://kde.org/applications/games/kmines/ || [kmines](https://www.archlinux.org/packages/extra/x86_64/kmines/)
 
 ![截图_2018-07-03_08-09-06](README-max.assets/截图_2018-07-03_08-09-06.png)
+
+
+
+### Pingus	
+
+
+
+
+
+![截图_2018-07-03_15-04-33](README-max.assets/截图_2018-07-03_15-04-33.png)
+
+![截图_2018-07-03_15-05-18](README-max.assets/截图_2018-07-03_15-05-18.png)
 
 
 
@@ -374,7 +398,7 @@ https://wiki.gnome.org/Apps/Nibbles || [gnome-nibbles](https://www.archlinux.org
 
 
 
-#### 英文游戏
+## 英文游戏
 
 ### 0ad
 
@@ -456,6 +480,20 @@ http://www.nethack.org/index.html || [nethack](https://www.archlinux.org/package
 ![截图_2018-07-02_19-53-02](README-max.assets/截图_2018-07-02_19-53-02.png)
 
 ![截图_2018-07-02_19-54-50](README-max.assets/截图_2018-07-02_19-54-50.png)
+
+
+
+### Shattered Pixel Dungeon
+
+
+
+
+
+![截图_2018-07-03_15-10-12](README-max.assets/截图_2018-07-03_15-10-12.png)
+
+![截图_2018-07-03_15-09-49](README-max.assets/截图_2018-07-03_15-09-49.png)
+
+
 
 
 
