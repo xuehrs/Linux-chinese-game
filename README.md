@@ -1,6 +1,6 @@
 # Linux-Chinese-Game
 
-说明:这里是Linux中文游戏列表，测试运行环境[Arch Linux](https://www.archlinux.org/)。该项目启动的原因：就是为中文WiKi游戏推荐列表做个补充。
+说明:这里是Linux中文游戏列表，测试运行环境[Arch Linux](https://www.archlinux.org/)。该项目启动的原因：就是为Arch Linux中文WiKi游戏推荐列表做个补充。
 
 Arch Linux官方[英文WiKi游戏推荐列表](https://wiki.archlinux.org/index.php/List_of_games)或者[中文WiKi游戏推荐列表](https://wiki.archlinux.org/index.php/List_of_games_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87) )  。
 
