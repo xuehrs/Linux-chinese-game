@@ -358,8 +358,7 @@ https://wiki.gnome.org/Apps/Nibbles || [gnome-nibbles](https://www.archlinux.org
 
 
 
-
-##### 测试，下面有空再补充
+##### 测试，下面有空再修正
 
 ![Konachan.com - 16 2girls blonde_hair boots hinamori_amu logo mashiro_rima nakayoshi peach-pit pink_hair seifuku short_hair shugo_chara skirt tie yellow_eyes](README-max.assets/Konachan.com - 16 2girls blonde_hair boots hinamori_amu logo mashiro_rima nakayoshi peach-pit pink_hair seifuku short_hair shugo_chara skirt tie yellow_eyes.jpg)
 
@@ -399,7 +398,15 @@ http://abuse.zoy.org/ || [abuse](https://www.archlinux.org/packages/community/x8
 
 ![截图_2018-07-02_19-29-21](README-max.assets/截图_2018-07-02_19-29-21.png)
 
-##### Block Attack!	
+##### Angband
+
+*Angband*是一款免费的单人地下城探险游戏，您可以扮演冒险家的角色，探索深层地牢，与怪物战斗，并获得最佳武器，为与黑暗之王Morgoth的最后一场战斗做准备。这个游戏你需要进入Ctrl+Alt+F2,再来命令angband。解决中文字体冲突问题。
+
+
+
+
+
+##### Block Attack!
 
 
 
