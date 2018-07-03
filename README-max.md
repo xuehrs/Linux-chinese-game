@@ -10,6 +10,8 @@
 
 益智 - 休闲:2048之后还有什么?是4096?还是?
 
+https://wiki.gnome.org/Apps/2048|| [gnome-2048](https://www.archlinux.org/packages/extra/x86_64/gnome-2048/)
+
 https://github.com/mevdschee/2048.c || [2048.c-git](https://aur.archlinux.org/packages/2048.c-git/)AUR
 
 ![截图_2018-07-03_07-38-55](README-max.assets/截图_2018-07-03_07-38-55.png)
@@ -144,13 +146,61 @@ http://www.freecol.org/ || [freecol](https://www.archlinux.org/packages/communit
 
 
 
-##### Four-in-a-row	四子连线
+##### Four in a Row	四子连线
 
 将四粒棋子排成一线以取胜
 
 https://wiki.gnome.org/Apps/Four-in-a-row || [four-in-a-row](https://www.archlinux.org/packages/extra/x86_64/four-in-a-row/)
 
 ![截图_2018-07-03_08-00-16](README-max.assets/截图_2018-07-03_08-00-16.png)
+
+##### Gbrainy	脑筋急转弯
+
+玩那些可以挑战您的逻辑、语言能力、计算和记忆的游戏
+
+https://wiki.gnome.org/Apps/gbrainy || [gbrainy](https://www.archlinux.org/packages/community/any/gbrainy/)
+
+![截图_2018-07-03_10-09-27](README-max.assets/截图_2018-07-03_10-09-27.png)
+
+
+
+##### Chess 国际象棋
+
+2D国际象棋游戏
+
+https://wiki.gnome.org/Apps/Chess || [gnome-chess](https://www.archlinux.org/packages/extra/x86_64/gnome-chess/)
+
+![截图_2018-07-03_10-41-03](README-max.assets/截图_2018-07-03_10-41-03.png)
+
+
+
+##### Hitori	错误的数独
+
+类似错的数独游戏开局，要求清除多余冲突数字
+
+https://wiki.gnome.org/Apps/Hitori || [hitori](https://www.archlinux.org/packages/extra/x86_64/hitori/)
+
+![截图_2018-07-03_10-12-46](README-max.assets/截图_2018-07-03_10-12-46.png)
+
+
+
+##### Lights Off	关灯
+
+Lights Off是一款益智游戏，其目标是关闭棋盘上的所有棋子。每次单击都会切换单击的图块及其非对角线邻居的状态。
+
+https://wiki.gnome.org/Apps/Lightsoff || [lightsoff](https://www.archlinux.org/packages/extra/x86_64/lightsoff/)
+
+![截图_2018-07-03_10-23-55](README-max.assets/截图_2018-07-03_10-23-55.png)
+
+
+
+##### Lagno	黑白棋
+
+Iagno是一款类似于Go的双人战略游戏。
+
+https://wiki.gnome.org/Apps/Iagno || [Iagno](https://www.archlinux.org/packages/extra/x86_64/iagno/)
+
+![截图_2018-07-03_10-44-13](README-max.assets/截图_2018-07-03_10-44-13.png)
 
 
 
@@ -176,6 +226,16 @@ https://kde.org/applications/games/kshisen/ || [kshisen](https://www.archlinux.o
 
 
 
+##### Mahjongg	麻将对对碰
+
+经典东方瓷砖游戏Mahjongg的单人纸牌（单人游戏）版本。目标是选择相似的瓷砖对。
+
+https://wiki.gnome.org/Apps/Mahjongg || [gnome-mahjongg](https://www.archlinux.org/packages/extra/x86_64/gnome-mahjongg/)
+
+![截图_2018-07-03_10-49-46](README-max.assets/截图_2018-07-03_10-49-46.png)
+
+
+
 ##### Mines	扫雷
 
 扫除雷区里的隐藏的地雷
@@ -196,6 +256,16 @@ https://wiki.gnome.org/Apps/Quadrapassel || [quadrapassel](https://www.archlinux
 
 
 
+##### Robots	机器人
+
+经典的机器人游戏，你必须避免一堆试图杀死你的机器人。你采取的每一步都会让他们更接近你。幸运的是，他们不是很聪明，你也有一个有用的远程传送小工具。
+
+https://wiki.gnome.org/Apps/Robots || [gnome-robots](https://www.archlinux.org/packages/extra/x86_64/gnome-robots/)
+
+![截图_2018-07-03_10-32-11](README-max.assets/截图_2018-07-03_10-32-11.png)
+
+
+
 ##### sudoku	数独
 
 通过这个数字格子解谜游戏测试您的逻辑能力
@@ -208,7 +278,7 @@ https://wiki.gnome.org/Apps/Sudoku || [gnome-sudoku](https://www.archlinux.org/p
 
 ##### Swell Foop	消色块
 
-移除同样的色块以清空屏幕
+尽可能少地移动对象。彼此相邻的类似对象作为一组被移除。
 
 https://wiki.gnome.org/Apps/Swell%20Foop || [swell-foop](https://www.archlinux.org/packages/extra/x86_64/swell-foop/)
 
