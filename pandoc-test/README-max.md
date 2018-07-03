@@ -12,11 +12,7 @@ https://wiki.gnome.org/Apps/2048|| [gnome-2048](https://www.archlinux.org/packag
 
 https://github.com/mevdschee/2048.c || [2048.c-git](https://aur.archlinux.org/packages/2048.c-git/)AUR
 
-![截图_2018-07-03_07-38-55](README-max.assets/截图_2018-07-03_07-38-55.png)
-
 ![截图_2018-07-03_07-40-19](README-max.assets/截图_2018-07-03_07-40-19.png)
-
-![截图_2018-07-03_07-40-19](README-max.assets/截图_2018-07-03_07-40-19-1530574865019.png)
 
 
 
