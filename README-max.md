@@ -44,10 +44,6 @@ https://wiki.gnome.org/Apps/Aisleriot || [aisleriot](https://www.archlinux.org/p
 
 https://wiki.gnome.org/Apps/Atomix || [atomix](https://www.archlinux.org/packages/extra/x86_64/atomix/)
 
-![截图_2018-07-02_20-16-32](README-max.assets/截图_2018-07-02_20-16-32.png)
-
-![截图_2018-07-02_20-16-45](README-max.assets/截图_2018-07-02_20-16-45.png)
-
 ![截图_2018-07-02_20-16-56](README-max.assets/截图_2018-07-02_20-16-56.png)
 
 
@@ -213,8 +209,6 @@ https://wiki.gnome.org/Apps/Iagno || [Iagno](https://www.archlinux.org/packages/
 益智 - 休闲:前前后后左右皆是追兵,曹操走得了吗?灵感来自曹操退走华容道。
 
 https://wiki.gnome.org/Apps/Klotski || [gnome-klotski](https://www.archlinux.org/packages/extra/x86_64/gnome-klotski/)
-
-![截图_2018-07-03_08-03-36](README-max.assets/截图_2018-07-03_08-03-36.png)
 
 ![截图_2018-07-03_08-03-25](README-max.assets/截图_2018-07-03_08-03-25.png)
 
