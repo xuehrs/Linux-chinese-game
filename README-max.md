@@ -96,6 +96,16 @@ http://en.cataclysmdda.com/ || [cataclysm-dda](https://www.archlinux.org/package
 
 
 
+### Chess 国际象棋
+
+2D国际象棋游戏
+
+https://wiki.gnome.org/Apps/Chess || [gnome-chess](https://www.archlinux.org/packages/extra/x86_64/gnome-chess/)
+
+![截图_2018-07-03_10-41-03](README-max.assets/截图_2018-07-03_10-41-03.png)
+
+
+
 ### DDNet
 
 多用户 - 快节奏:Teeworlds的修改版,快节奏横向卷轴多人动作射击游戏。
@@ -164,16 +174,6 @@ https://wiki.gnome.org/Apps/gbrainy || [gbrainy](https://www.archlinux.org/packa
 
 
 
-### Chess 国际象棋
-
-2D国际象棋游戏
-
-https://wiki.gnome.org/Apps/Chess || [gnome-chess](https://www.archlinux.org/packages/extra/x86_64/gnome-chess/)
-
-![截图_2018-07-03_10-41-03](README-max.assets/截图_2018-07-03_10-41-03.png)
-
-
-
 ### Hitori	错误的数独
 
 类似错的数独游戏开局，要求清除多余冲突数字
@@ -184,23 +184,13 @@ https://wiki.gnome.org/Apps/Hitori || [hitori](https://www.archlinux.org/package
 
 
 
-### Lights Off	关灯
+### Kajongg	麻将
 
-Lights Off是一款益智游戏，其目标是关闭棋盘上的所有棋子。每次单击都会切换单击的图块及其非对角线邻居的状态。
-
-https://wiki.gnome.org/Apps/Lightsoff || [lightsoff](https://www.archlinux.org/packages/extra/x86_64/lightsoff/)
-
-![截图_2018-07-03_10-23-55](README-max.assets/截图_2018-07-03_10-23-55.png)
+中国传统的四人桌上游戏
 
 
 
-### Lagno	黑白棋
-
-Iagno是一款类似于Go的双人战略游戏。
-
-https://wiki.gnome.org/Apps/Iagno || [Iagno](https://www.archlinux.org/packages/extra/x86_64/iagno/)
-
-![截图_2018-07-03_10-44-13](README-max.assets/截图_2018-07-03_10-44-13.png)
+![截图_2018-07-03_21-15-03](README-max.assets/截图_2018-07-03_21-15-03.png)
 
 
 
@@ -214,6 +204,326 @@ https://wiki.gnome.org/Apps/Klotski || [gnome-klotski](https://www.archlinux.org
 
 
 
+### Kapman	吃豆人
+
+逃脱精灵吃豆子
+
+
+
+![截图_2018-07-03_21-21-55](README-max.assets/截图_2018-07-03_21-21-55.png)
+
+
+
+### KAtomic	推箱子
+
+类似推箱子的逻辑游戏
+
+
+
+![截图_2018-07-03_21-23-53](README-max.assets/截图_2018-07-03_21-23-53.png)
+
+
+
+### KBlackBox	黑箱逻辑游戏
+
+找出所有球隐匿的位置。
+
+
+
+![截图_2018-07-03_21-28-28](README-max.assets/截图_2018-07-03_21-28-28.png)
+
+
+
+### KBlocks	俄罗斯方块
+
+俄罗斯方块游戏
+
+
+
+![截图_2018-07-03_21-10-47](README-max.assets/截图_2018-07-03_21-10-47.png)
+
+
+
+### KBounce	弹球游戏
+
+知道街机游戏天蚕变吗？
+
+
+
+![截图_2018-07-03_21-37-42](README-max.assets/截图_2018-07-03_21-37-42.png)
+
+
+
+### KBreakOut	挡板弹球游戏
+
+街机版和红白机版弹球游戏，都玩过了。
+
+
+
+![截图_2018-07-03_21-39-58](README-max.assets/截图_2018-07-03_21-39-58.png)
+
+
+
+### Kcheckers	国际象棋
+
+
+
+
+
+![截图_2018-07-03_21-42-06](README-max.assets/截图_2018-07-03_21-42-06.png)
+
+
+
+### KDiamond	三子连线棋游戏
+
+三子连线棋游戏
+
+
+
+![截图_2018-07-03_21-43-53](README-max.assets/截图_2018-07-03_21-43-53.png)
+
+
+
+### KFourInLine	四子连珠游戏
+
+四子连珠游戏
+
+
+
+![截图_2018-07-03_21-46-05](README-max.assets/截图_2018-07-03_21-46-05.png)
+
+
+
+### KGoldrunner	淘金，避敌，以及解谜
+
+动作和解谜游戏
+
+
+
+![截图_2018-07-03_21-48-26](README-max.assets/截图_2018-07-03_21-48-26.png)
+
+
+
+### KHangMan	吊颈人游戏
+
+KDE 吊颈人游戏
+
+
+
+![截图_2018-07-03_21-51-28](README-max.assets/截图_2018-07-03_21-51-28.png)
+
+
+
+### Kigo	围棋
+
+围棋游戏
+
+
+
+![截图_2018-07-03_21-53-51](README-max.assets/截图_2018-07-03_21-53-51.png)
+
+
+
+### Killbots	机器人策略游戏
+
+KDE 小游戏，边传送边杀掉机器人。
+
+
+
+![截图_2018-07-03_21-55-21](README-max.assets/截图_2018-07-03_21-55-21.png)
+
+
+
+### Kiriki	快艇骰子
+
+快艇骰子游戏
+
+
+
+![截图_2018-07-03_21-57-06](README-max.assets/截图_2018-07-03_21-57-06.png)
+
+
+
+### KJumpingCube	占领版块
+
+版块占领游戏
+
+
+
+![截图_2018-07-03_22-00-12](README-max.assets/截图_2018-07-03_22-00-12.png)
+
+
+
+### Klickety	消除色块游戏
+
+
+
+
+
+![截图_2018-07-03_22-02-23](README-max.assets/截图_2018-07-03_22-02-23.png)
+
+
+
+### KMahjongg	麻将连连看
+
+麻将连连看游戏
+
+
+
+![截图_2018-07-03_22-03-45](README-max.assets/截图_2018-07-03_22-03-45.png)
+
+
+
+### KMines	扫雷
+
+扫雷游戏
+
+
+
+![截图_2018-07-03_22-05-28](README-max.assets/截图_2018-07-03_22-05-28.png)
+
+
+
+### kNetwalk	网络建设游戏
+
+类似管道维修的游戏
+
+
+
+![截图_2018-07-03_22-06-41](README-max.assets/截图_2018-07-03_22-06-41.png)
+
+
+
+### Knights	国际象棋
+
+国际象棋游戏
+
+
+
+![截图_2018-07-03_22-08-40](README-max.assets/截图_2018-07-03_22-08-40.png)
+
+
+
+### Kolf
+
+Miniature Golf
+
+
+
+![截图_2018-07-03_22-10-35](README-max.assets/截图_2018-07-03_22-10-35.png)
+
+
+
+### Kollision
+
+讲个笑话，是男人，坚持３０秒。
+
+
+
+![截图_2018-07-03_22-12-17](README-max.assets/截图_2018-07-03_22-12-17.png)
+
+
+
+### Kolor Lines
+
+类似连珠游戏
+
+
+
+![截图_2018-07-03_22-14-34](README-max.assets/截图_2018-07-03_22-14-34.png)
+
+
+
+### Konquest
+
+星际策略游戏
+
+
+
+![截图_2018-07-03_22-17-10](README-max.assets/截图_2018-07-03_22-17-10.png)
+
+
+
+### KPatience 单人纸牌游戏
+
+考验耐心的牌类游戏
+
+
+
+![截图_2018-07-03_22-18-30](README-max.assets/截图_2018-07-03_22-18-30.png)
+
+
+
+### KReversi
+
+
+
+
+
+![截图_2018-07-03_22-20-13](README-max.assets/截图_2018-07-03_22-20-13.png)
+
+
+
+### KsirK
+
+World Domination Strategy Game
+
+
+
+![截图_2018-07-03_22-21-58](README-max.assets/截图_2018-07-03_22-21-58.png)
+
+
+
+### KSnakeDuel	超空间竞速
+
+
+
+
+
+![截图_2018-07-03_22-24-32](README-max.assets/截图_2018-07-03_22-24-32.png)
+
+
+
+### KSpaceDuel	空间型街机游戏
+
+
+
+
+
+![截图_2018-07-03_22-26-44](README-max.assets/截图_2018-07-03_22-26-44.png)
+
+
+
+### KSquares
+
+通过点连接创建方形
+
+
+
+![截图_2018-07-03_22-29-06](README-max.assets/截图_2018-07-03_22-29-06.png)
+
+
+
+### KSudoku	多种类数独
+
+多种类数独游戏
+
+
+
+![截图_2018-07-03_22-30-14](README-max.assets/截图_2018-07-03_22-30-14.png)
+
+
+
+### Kubrick	魔方
+
+不错的魔方游戏，解不了的，可以用电脑自动解决。可以载入存档。
+
+
+
+![截图_2018-07-03_22-32-32](README-max.assets/截图_2018-07-03_22-32-32.png)
+
+
+
 ### kshisen	连连看
 
 类似连连看的麻将游戏
@@ -221,6 +531,26 @@ https://wiki.gnome.org/Apps/Klotski || [gnome-klotski](https://www.archlinux.org
 https://kde.org/applications/games/kshisen/ || [kshisen](https://www.archlinux.org/packages/extra/x86_64/kshisen/)
 
 ![截图_2018-07-03_08-07-09](README-max.assets/截图_2018-07-03_08-07-09.png)
+
+
+
+### Lagno	黑白棋
+
+Iagno是一款类似于Go的双人战略游戏。
+
+https://wiki.gnome.org/Apps/Iagno || [Iagno](https://www.archlinux.org/packages/extra/x86_64/iagno/)
+
+![截图_2018-07-03_10-44-13](README-max.assets/截图_2018-07-03_10-44-13.png)
+
+
+
+### Lights Off	关灯
+
+Lights Off是一款益智游戏，其目标是关闭棋盘上的所有棋子。每次单击都会切换单击的图块及其非对角线邻居的状态。
+
+https://wiki.gnome.org/Apps/Lightsoff || [lightsoff](https://www.archlinux.org/packages/extra/x86_64/lightsoff/)
+
+![截图_2018-07-03_10-23-55](README-max.assets/截图_2018-07-03_10-23-55.png)
 
 
 
@@ -468,6 +798,23 @@ http://www.bay12games.com/dwarves/ || [dwarffortress](https://www.archlinux.org/
 
 
 
+
+
+### Gweled	
+
+
+
+
+
+![截图_2018-07-03_21-08-57](../../Desktop/截图_2018-07-03_21-08-57.png)
+
+### kanagram	字母顺序游戏
+
+
+
+
+
+![截图_2018-07-03_21-18-46](README-max.assets/截图_2018-07-03_21-18-46-1530624084806.png)
 
 
 
