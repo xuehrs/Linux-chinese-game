@@ -1,4 +1,4 @@
-# Linux-Ｃhinese-Ｇame
+# Linux-Ghinese-Game
 
 说明:这里是Linux中文游戏列表，测试运行环境[Arch Linux](https://www.archlinux.org/)。该项目启动的原因：就是为中文WiKi游戏推荐列表做个补充。
 
