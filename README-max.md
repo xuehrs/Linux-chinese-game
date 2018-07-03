@@ -12,11 +12,11 @@
 
 https://github.com/mevdschee/2048.c || [2048.c-git](https://aur.archlinux.org/packages/2048.c-git/)AUR
 
-![截图_2018-07-01_22-39-56](README-max.assets/截图_2018-07-01_22-39-56.png)
+![截图_2018-07-03_07-38-55](README-max.assets/截图_2018-07-03_07-38-55.png)
 
-![截图_2018-07-01_22-40-10](README-max.assets/截图_2018-07-01_22-40-10.png)
+![截图_2018-07-03_07-40-19](README-max.assets/截图_2018-07-03_07-40-19.png)
 
-![截图_2018-07-01_22-39-26](README-max.assets/截图_2018-07-01_22-39-26.png)
+![截图_2018-07-03_07-40-19](README-max.assets/截图_2018-07-03_07-40-19-1530574865019.png)
 
 
 
@@ -28,7 +28,55 @@ https://wiki.gnome.org/Apps/Aisleriot || [aisleriot](https://www.archlinux.org/p
 
 ![截图_2018-07-02_00-23-17](README-max.assets/截图_2018-07-02_00-23-17.png)
 
-![截图_2018-07-02_00-23-48](README-max.assets/截图_2018-07-02_00-23-48.png)
+![截图_2018-07-03_07-43-37](README-max.assets/截图_2018-07-03_07-43-37.png)
+
+
+
+##### Atomix	分子智力游戏
+
+原子和分子的智力游戏。
+
+https://wiki.gnome.org/Apps/Atomix || [atomix](https://www.archlinux.org/packages/extra/x86_64/atomix/)
+
+![截图_2018-07-02_20-16-32](README-max.assets/截图_2018-07-02_20-16-32.png)
+
+![截图_2018-07-02_20-16-45](README-max.assets/截图_2018-07-02_20-16-45.png)
+
+![截图_2018-07-02_20-16-56](README-max.assets/截图_2018-07-02_20-16-56.png)
+
+
+
+##### Bovo	五子棋
+
+五子连珠，一定胜负。
+
+https://kde.org/applications/games/bovo/ || [bovo](https://www.archlinux.org/packages/extra/x86_64/bovo/)
+
+![截图_2018-07-02_20-34-34](README-max.assets/截图_2018-07-02_20-34-34.png)
+
+![截图_2018-07-02_20-35-01](README-max.assets/截图_2018-07-02_20-35-01.png)
+
+
+
+##### Bomber 	投弹者
+
+街机上的投弹游戏
+
+https://www.kde.org/applications/games/bomber/ || [bomber](https://www.archlinux.org/packages/extra/x86_64/bomber/)
+
+![截图_2018-07-03_07-14-29](README-max.assets/截图_2018-07-03_07-14-29.png)
+
+
+
+##### ccGo	围棋
+
+规则简单，下子复杂。
+
+http://ccdw.org/~cjj/prog/ccgo/ || [ccgo](https://www.archlinux.org/packages/community/x86_64/ccgo/)
+
+![截图_2018-07-02_20-40-32](README-max.assets/截图_2018-07-02_20-40-32.png)
+
+![截图_2018-07-02_20-40-05](README-max.assets/截图_2018-07-02_20-40-05.png)
 
 
 
@@ -36,7 +84,7 @@ https://wiki.gnome.org/Apps/Aisleriot || [aisleriot](https://www.archlinux.org/p
 
 独立 - 生存 - 地牢 - 随机地图:这是一个生化危机版生存游戏。
 
-<http://en.cataclysmdda.com/> || [cataclysm-dda](https://www.archlinux.org/packages/community/x86_64/cataclysm-dda/) || [cataclysm-dda-ncurses](https://aur.archlinux.org/packages/cataclysm-dda-ncurses/)AUR || [cataclysm-dda-tiles](https://aur.archlinux.org/packages/cataclysm-dda-tiles/)AUR
+http://en.cataclysmdda.com/ || [cataclysm-dda](https://www.archlinux.org/packages/community/x86_64/cataclysm-dda/) || [cataclysm-dda-ncurses](https://aur.archlinux.org/packages/cataclysm-dda-ncurses/)AUR || [cataclysm-dda-tiles](https://aur.archlinux.org/packages/cataclysm-dda-tiles/)AUR
 
 ![截图_2018-07-01_21-25-53](README-max.assets/截图_2018-07-01_21-25-53.png)
 
@@ -50,7 +98,7 @@ https://wiki.gnome.org/Apps/Aisleriot || [aisleriot](https://www.archlinux.org/p
 
 多用户 - 快节奏:Teeworlds的修改版,快节奏横向卷轴多人动作射击游戏。
 
-<https://ddnet.tw/> || [ddnet](https://aur.archlinux.org/packages/ddnet/)AUR
+https://ddnet.tw/ || [ddnet](https://aur.archlinux.org/packages/ddnet/)AUR
 
 ![截图_2018-07-01_20-52-32](README-max.assets/截图_2018-07-01_20-52-32.png)
 
@@ -58,11 +106,21 @@ https://wiki.gnome.org/Apps/Aisleriot || [aisleriot](https://www.archlinux.org/p
 
 
 
+##### Five or more	连珠消球
+
+将彩球连成一线以消除
+
+https://wiki.gnome.org/Apps/Five%20or%20more || [five-or-more](https://www.archlinux.org/packages/extra/x86_64/five-or-more/)
+
+![截图_2018-07-03_08-45-52](README-max.assets/截图_2018-07-03_08-45-52.png)
+
+
+
 ##### Freeciv
 
 多用户 - 回合制 - 策略游戏:灵感来自Microprose文明帝国。
 
-<http://freeciv.wikia.com/wiki/Main_Page> || [freeciv](https://www.archlinux.org/packages/extra/x86_64/freeciv/)
+http://freeciv.wikia.com/wiki/Main_Page || [freeciv](https://www.archlinux.org/packages/extra/x86_64/freeciv/)
 
 ![截图_2018-07-01_21-43-27](README-max.assets/截图_2018-07-01_21-43-27.png)
 
@@ -76,7 +134,7 @@ https://wiki.gnome.org/Apps/Aisleriot || [aisleriot](https://www.archlinux.org/p
 
 多用户 - 回合制 - 策略游戏:基于殖民化的基于回合的策略游戏。
 
-<http://www.freecol.org/> || [freecol](https://www.archlinux.org/packages/community/any/freecol/)
+http://www.freecol.org/ || [freecol](https://www.archlinux.org/packages/community/any/freecol/)
 
 ![截图_2018-07-01_22-19-57](README-max.assets/截图_2018-07-01_22-19-57.png)
 
@@ -86,15 +144,45 @@ https://wiki.gnome.org/Apps/Aisleriot || [aisleriot](https://www.archlinux.org/p
 
 
 
+##### Four-in-a-row	四子连线
+
+将四粒棋子排成一线以取胜
+
+https://wiki.gnome.org/Apps/Four-in-a-row || [four-in-a-row](https://www.archlinux.org/packages/extra/x86_64/four-in-a-row/)
+
+![截图_2018-07-03_08-00-16](README-max.assets/截图_2018-07-03_08-00-16.png)
+
+
+
 ##### Klotski	华容道
 
 益智 - 休闲:前前后后左右皆是追兵,曹操走得了吗?灵感来自曹操退走华容道。
 
 https://wiki.gnome.org/Apps/Klotski || [gnome-klotski](https://www.archlinux.org/packages/extra/x86_64/gnome-klotski/)
 
-![截图_2018-07-02_11-30-29](README-max.assets/截图_2018-07-02_11-30-29.png)
+![截图_2018-07-03_08-03-36](README-max.assets/截图_2018-07-03_08-03-36.png)
 
-![截图_2018-07-02_11-30-51](README-max.assets/截图_2018-07-02_11-30-51.png)
+![截图_2018-07-03_08-03-25](README-max.assets/截图_2018-07-03_08-03-25.png)
+
+
+
+##### kshisen	连连看
+
+类似连连看的麻将游戏
+
+https://kde.org/applications/games/kshisen/ || [kshisen](https://www.archlinux.org/packages/extra/x86_64/kshisen/)
+
+![截图_2018-07-03_08-07-09](README-max.assets/截图_2018-07-03_08-07-09.png)
+
+
+
+##### Mines	扫雷
+
+扫除雷区里的隐藏的地雷
+
+https://kde.org/applications/games/kmines/ || [kmines](https://www.archlinux.org/packages/extra/x86_64/kmines/)
+
+![截图_2018-07-03_08-09-06](README-max.assets/截图_2018-07-03_08-09-06.png)
 
 
 
@@ -104,11 +192,59 @@ https://wiki.gnome.org/Apps/Klotski || [gnome-klotski](https://www.archlinux.org
 
 https://wiki.gnome.org/Apps/Quadrapassel || [quadrapassel](https://www.archlinux.org/packages/extra/x86_64/quadrapassel/)
 
-![截图_2018-07-01_23-24-27](README-max.assets/截图_2018-07-01_23-24-27.png)
+![截图_2018-07-03_08-11-40](README-max.assets/截图_2018-07-03_08-11-40.png)
 
-![截图_2018-07-01_23-24-38](README-max.assets/截图_2018-07-01_23-24-38.png)
 
-![截图_2018-07-01_23-24-52](README-max.assets/截图_2018-07-01_23-24-52.png)
+
+##### sudoku	数独
+
+通过这个数字格子解谜游戏测试您的逻辑能力
+
+https://wiki.gnome.org/Apps/Sudoku || [gnome-sudoku](https://www.archlinux.org/packages/extra/x86_64/gnome-sudoku/)
+
+![截图_2018-07-03_08-13-19](README-max.assets/截图_2018-07-03_08-13-19.png)
+
+
+
+##### Swell Foop	消色块
+
+移除同样的色块以清空屏幕
+
+https://wiki.gnome.org/Apps/Swell%20Foop || [swell-foop](https://www.archlinux.org/packages/extra/x86_64/swell-foop/)
+
+![截图_2018-07-03_08-16-59](README-max.assets/截图_2018-07-03_08-16-59.png)
+
+
+
+##### Tali	掷骰子
+
+一种类似扑克的的骰子游戏
+
+https://wiki.gnome.org/Apps/Tali || [tall](https://www.archlinux.org/packages/extra/x86_64/tali/)
+
+![截图_2018-07-03_08-20-21](README-max.assets/截图_2018-07-03_08-20-21.png)
+
+
+
+##### Taquin	推盘
+
+将方块滑动到正确位置
+
+https://wiki.gnome.org/Apps/Taquin || [gnome-taquin](https://www.archlinux.org/packages/extra/x86_64/gnome-taquin/)
+
+![截图_2018-07-03_08-22-25](README-max.assets/截图_2018-07-03_08-22-25.png)
+
+
+
+##### Tetravex	四邻
+
+匹配编号的方块来完成谜题
+
+https://wiki.gnome.org/Apps/Tetravex || [gnome-tetravex](https://www.archlinux.org/packages/extra/x86_64/gnome-tetravex/)
+
+![截图_2018-07-03_08-30-11](README-max.assets/截图_2018-07-03_08-30-11.png)
+
+![截图_2018-07-03_08-29-59](README-max.assets/截图_2018-07-03_08-29-59.png)
 
 
 
@@ -116,7 +252,7 @@ https://wiki.gnome.org/Apps/Quadrapassel || [quadrapassel](https://www.archlinux
 
 多用户 - 回合制 - 策略游戏:免费的基于回合的战术策略游戏，具有高度的幻想主题，包括单人游戏和在线/多人游戏多人战斗。
 
-<https://www.wesnoth.org/> || [wesnoth](https://www.archlinux.org/packages/community/x86_64/wesnoth/)
+https://www.wesnoth.org/ || [wesnoth](https://www.archlinux.org/packages/community/x86_64/wesnoth/)
 
 ![截图_2018-07-01_21-01-47](README-max.assets/截图_2018-07-01_21-01-47.png)
 
@@ -130,15 +266,11 @@ https://wiki.gnome.org/Apps/Quadrapassel || [quadrapassel](https://www.archlinux
 
 https://wiki.gnome.org/Apps/Nibbles || [gnome-nibbles](https://www.archlinux.org/packages/extra/x86_64/gnome-nibbles/)
 
-![截图_2018-07-02_11-20-06](README-max.assets/截图_2018-07-02_11-20-06.png)
+![截图_2018-07-03_08-31-20](README-max.assets/截图_2018-07-03_08-31-20.png)
 
-![截图_2018-07-02_11-20-14](README-max.assets/截图_2018-07-02_11-20-14.png)
+![截图_2018-07-03_08-31-30](README-max.assets/截图_2018-07-03_08-31-30.png)
 
-![截图_2018-07-02_11-20-23](README-max.assets/截图_2018-07-02_11-20-23.png)
-
-![截图_2018-07-02_11-22-28](README-max.assets/截图_2018-07-02_11-22-28.png)
-
-![截图_2018-07-02_11-22-42](README-max.assets/截图_2018-07-02_11-22-42.png)
+![截图_2018-07-03_08-31-48](README-max.assets/截图_2018-07-03_08-31-48.png)
 
 
 
@@ -147,6 +279,17 @@ https://wiki.gnome.org/Apps/Nibbles || [gnome-nibbles](https://www.archlinux.org
 
 
 
+
+
+
+
+
+
+
+
+
+
+##### 测试，下面有空再补充
 
 ![Konachan.com - 16 2girls blonde_hair boots hinamori_amu logo mashiro_rima nakayoshi peach-pit pink_hair seifuku short_hair shugo_chara skirt tie yellow_eyes](README-max.assets/Konachan.com - 16 2girls blonde_hair boots hinamori_amu logo mashiro_rima nakayoshi peach-pit pink_hair seifuku short_hair shugo_chara skirt tie yellow_eyes.jpg)
 
@@ -160,14 +303,85 @@ https://wiki.gnome.org/Apps/Nibbles || [gnome-nibbles](https://www.archlinux.org
 
 
 
-
 #### 英文游戏
 
- 
+##### 0ad
 
-0ad - 类似于《帝国时代》的策略类3D游戏,需要自己下载中文语言包
-	zaz - 泡泡龙版祖玛
-	nethack - 30多年文字游戏,不知道是不是网游?(纯英文)
+多用户 - 回合制 - 策略游戏:类似于《帝国时代》的策略类3D游戏,需要自己下载中文语言包。有没有发现和魔兽争霸差不多？
+
+http://play0ad.com/ || [0ad](https://www.archlinux.org/packages/community/x86_64/0ad/)
+
+![截图_2018-07-02_19-42-23](README-max.assets/截图_2018-07-02_19-42-23.png)
+
+![截图_2018-07-02_19-43-11](README-max.assets/截图_2018-07-02_19-43-11.png)
+
+![截图_2018-07-02_19-43-57](README-max.assets/截图_2018-07-02_19-43-57.png)
+
+
+
+##### Abuse
+
+横版射击 - 角色 - 多人联机:侧滚动动作游戏，让你对抗无情的外星杀手。
+
+http://abuse.zoy.org/ || [abuse](https://www.archlinux.org/packages/community/x86_64/abuse/)
+
+![截图_2018-07-02_19-28-38](README-max.assets/截图_2018-07-02_19-28-38.png)
+
+![截图_2018-07-02_19-29-21](README-max.assets/截图_2018-07-02_19-29-21.png)
+
+##### Block Attack!	
+
+
+
+
+
+![截图_2018-07-02_20-29-52](README-max.assets/截图_2018-07-02_20-29-52.png)
+
+![截图_2018-07-02_20-30-36](README-max.assets/截图_2018-07-02_20-30-36.png)
+
+![截图_2018-07-02_20-31-27](README-max.assets/截图_2018-07-02_20-31-27.png)
+
+
+
+##### BomberClone	炸弹人
+
+
+
+##### Dungeon Crawl Stone Soup
+
+
+
+![截图_2018-07-02_20-46-06](README-max.assets/截图_2018-07-02_20-46-06.png)
+
+![截图_2018-07-02_20-45-14](README-max.assets/截图_2018-07-02_20-45-14.png)
+
+##### Dwarf Fortress
+
+独立 - 生存 - 地牢 - 随机地图:单人游戏幻想游戏。你在随机生成的持久世界中控制矮人前哨或冒险家。
+
+http://www.bay12games.com/dwarves/ || [dwarffortress](https://www.archlinux.org/packages/community/x86_64/dwarffortress/)
+
+
+
+
+
+
+
+
+##### NetHack
+
+独立 - 生存 - 地牢 - 随机地图:30多年文字游戏,不知道是不是网游?(纯英文)
+
+http://www.nethack.org/index.html || [nethack](https://www.archlinux.org/packages/community/x86_64/nethack/)
+
+![截图_2018-07-02_19-53-02](README-max.assets/截图_2018-07-02_19-53-02.png)
+
+![截图_2018-07-02_19-54-50](README-max.assets/截图_2018-07-02_19-54-50.png)
+
+
+
+
+​	zaz - 泡泡龙版祖玛
 	dwarffortress - 单人游戏幻想游戏。你在随机生成的持久世界中控制矮人前哨或冒险家。
 	minetest - 我的世界
 
