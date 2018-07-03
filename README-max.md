@@ -1,12 +1,16 @@
-## ArchLinux仓库的游戏
+# ArchLinux仓库的游戏
 
 不分官方和aur系列,你可以试试pacman或者aur工具,优先试试pacman工具能不能下载
 
-#### 中文游戏
+
+
+[TOC]
+
+## 中文游戏
 
 
 
-##### 2048
+### 2048
 
 益智 - 休闲:2048之后还有什么?是4096?还是?
 
@@ -22,7 +26,7 @@ https://github.com/mevdschee/2048.c || [2048.c-git](https://aur.archlinux.org/pa
 
 
 
-##### Aisleriot	纸牌游戏集合
+### Aisleriot	纸牌游戏集合
 
 益智 - 休闲 - 纸牌:Aisleriot也称为Solitaire或sol,看看空当接龙玩法就知道了。
 
@@ -34,7 +38,7 @@ https://wiki.gnome.org/Apps/Aisleriot || [aisleriot](https://www.archlinux.org/p
 
 
 
-##### Atomix	分子智力游戏
+### Atomix	分子智力游戏
 
 原子和分子的智力游戏。
 
@@ -48,7 +52,7 @@ https://wiki.gnome.org/Apps/Atomix || [atomix](https://www.archlinux.org/package
 
 
 
-##### Bovo	五子棋
+### Bovo	五子棋
 
 五子连珠，一定胜负。
 
@@ -60,7 +64,7 @@ https://kde.org/applications/games/bovo/ || [bovo](https://www.archlinux.org/pac
 
 
 
-##### Bomber 	投弹者
+### Bomber 	投弹者
 
 街机上的投弹游戏
 
@@ -70,7 +74,7 @@ https://www.kde.org/applications/games/bomber/ || [bomber](https://www.archlin
 
 
 
-##### ccGo	围棋
+### ccGo	围棋
 
 规则简单，下子复杂。
 
@@ -82,7 +86,7 @@ http://ccdw.org/~cjj/prog/ccgo/ || [ccgo](https://www.archlinux.org/packages/com
 
 
 
-##### Cataclysm: Dark Days Ahead	大灾变(CDDA)
+### Cataclysm: Dark Days Ahead	大灾变(CDDA)
 
 独立 - 生存 - 地牢 - 随机地图:这是一个生化危机版生存游戏。
 
@@ -96,7 +100,7 @@ http://en.cataclysmdda.com/ || [cataclysm-dda](https://www.archlinux.org/package
 
 
 
-##### DDNet
+### DDNet
 
 多用户 - 快节奏:Teeworlds的修改版,快节奏横向卷轴多人动作射击游戏。
 
@@ -108,7 +112,7 @@ https://ddnet.tw/ || [ddnet](https://aur.archlinux.org/packages/ddnet/)AUR
 
 
 
-##### Five or more	连珠消球
+### Five or more	连珠消球
 
 将彩球连成一线以消除
 
@@ -118,7 +122,7 @@ https://wiki.gnome.org/Apps/Five%20or%20more || [five-or-more](https://www.archl
 
 
 
-##### Freeciv
+### Freeciv
 
 多用户 - 回合制 - 策略游戏:灵感来自Microprose文明帝国。
 
@@ -132,7 +136,7 @@ http://freeciv.wikia.com/wiki/Main_Page || [freeciv](https://www.archlinux.org/p
 
 
 
-##### FreeCol	
+### FreeCol	
 
 多用户 - 回合制 - 策略游戏:基于殖民化的基于回合的策略游戏。
 
@@ -146,7 +150,7 @@ http://www.freecol.org/ || [freecol](https://www.archlinux.org/packages/communit
 
 
 
-##### Four in a Row	四子连线
+### Four in a Row	四子连线
 
 将四粒棋子排成一线以取胜
 
@@ -154,7 +158,7 @@ https://wiki.gnome.org/Apps/Four-in-a-row || [four-in-a-row](https://www.archlin
 
 ![截图_2018-07-03_08-00-16](README-max.assets/截图_2018-07-03_08-00-16.png)
 
-##### Gbrainy	脑筋急转弯
+### Gbrainy	脑筋急转弯
 
 玩那些可以挑战您的逻辑、语言能力、计算和记忆的游戏
 
@@ -164,7 +168,7 @@ https://wiki.gnome.org/Apps/gbrainy || [gbrainy](https://www.archlinux.org/packa
 
 
 
-##### Chess 国际象棋
+### Chess 国际象棋
 
 2D国际象棋游戏
 
@@ -174,7 +178,7 @@ https://wiki.gnome.org/Apps/Chess || [gnome-chess](https://www.archlinux.org/pac
 
 
 
-##### Hitori	错误的数独
+### Hitori	错误的数独
 
 类似错的数独游戏开局，要求清除多余冲突数字
 
@@ -184,7 +188,7 @@ https://wiki.gnome.org/Apps/Hitori || [hitori](https://www.archlinux.org/package
 
 
 
-##### Lights Off	关灯
+### Lights Off	关灯
 
 Lights Off是一款益智游戏，其目标是关闭棋盘上的所有棋子。每次单击都会切换单击的图块及其非对角线邻居的状态。
 
@@ -194,7 +198,7 @@ https://wiki.gnome.org/Apps/Lightsoff || [lightsoff](https://www.archlinux.org/p
 
 
 
-##### Lagno	黑白棋
+### Lagno	黑白棋
 
 Iagno是一款类似于Go的双人战略游戏。
 
@@ -204,7 +208,7 @@ https://wiki.gnome.org/Apps/Iagno || [Iagno](https://www.archlinux.org/packages/
 
 
 
-##### Klotski	华容道
+### Klotski	华容道
 
 益智 - 休闲:前前后后左右皆是追兵,曹操走得了吗?灵感来自曹操退走华容道。
 
@@ -216,7 +220,7 @@ https://wiki.gnome.org/Apps/Klotski || [gnome-klotski](https://www.archlinux.org
 
 
 
-##### kshisen	连连看
+### kshisen	连连看
 
 类似连连看的麻将游戏
 
@@ -226,7 +230,7 @@ https://kde.org/applications/games/kshisen/ || [kshisen](https://www.archlinux.o
 
 
 
-##### Mahjongg	麻将对对碰
+### Mahjongg	麻将对对碰
 
 经典东方瓷砖游戏Mahjongg的单人纸牌（单人游戏）版本。目标是选择相似的瓷砖对。
 
@@ -236,7 +240,7 @@ https://wiki.gnome.org/Apps/Mahjongg || [gnome-mahjongg](https://www.archlinux.o
 
 
 
-##### Mines	扫雷
+### Mines	扫雷
 
 扫除雷区里的隐藏的地雷
 
@@ -246,7 +250,7 @@ https://kde.org/applications/games/kmines/ || [kmines](https://www.archlinux.org
 
 
 
-##### Quadrapassel	俄罗斯方块
+### Quadrapassel	俄罗斯方块
 
 益智 - 休闲:将下落的方块组合在一起。
 
@@ -256,7 +260,7 @@ https://wiki.gnome.org/Apps/Quadrapassel || [quadrapassel](https://www.archlinux
 
 
 
-##### Robots	机器人
+### Robots	机器人
 
 经典的机器人游戏，你必须避免一堆试图杀死你的机器人。你采取的每一步都会让他们更接近你。幸运的是，他们不是很聪明，你也有一个有用的远程传送小工具。
 
@@ -266,7 +270,7 @@ https://wiki.gnome.org/Apps/Robots || [gnome-robots](https://www.archlinux.org/p
 
 
 
-##### sudoku	数独
+### sudoku	数独
 
 通过这个数字格子解谜游戏测试您的逻辑能力
 
@@ -276,7 +280,7 @@ https://wiki.gnome.org/Apps/Sudoku || [gnome-sudoku](https://www.archlinux.org/p
 
 
 
-##### Swell Foop	消色块
+### Swell Foop	消色块
 
 尽可能少地移动对象。彼此相邻的类似对象作为一组被移除。
 
@@ -286,7 +290,7 @@ https://wiki.gnome.org/Apps/Swell%20Foop || [swell-foop](https://www.archlinux.o
 
 
 
-##### Tali	掷骰子
+### Tali	掷骰子
 
 一种类似扑克的的骰子游戏
 
@@ -296,7 +300,7 @@ https://wiki.gnome.org/Apps/Tali || [tall](https://www.archlinux.org/packages/ex
 
 
 
-##### Taquin	推盘
+### Taquin	推盘
 
 将方块滑动到正确位置
 
@@ -306,7 +310,7 @@ https://wiki.gnome.org/Apps/Taquin || [gnome-taquin](https://www.archlinux.org/p
 
 
 
-##### Tetravex	四邻
+### Tetravex	四邻
 
 匹配编号的方块来完成谜题
 
@@ -318,7 +322,7 @@ https://wiki.gnome.org/Apps/Tetravex || [gnome-tetravex](https://www.archlinux.o
 
 
 
-##### The Battle for Wesnoth	韦诺之战
+### The Battle for Wesnoth	韦诺之战
 
 多用户 - 回合制 - 策略游戏:免费的基于回合的战术策略游戏，具有高度的幻想主题，包括单人游戏和在线/多人游戏多人战斗。
 
@@ -330,7 +334,7 @@ https://www.wesnoth.org/ || [wesnoth](https://www.archlinux.org/packages/commu
 
 
 
-##### Nibbles	贪吃蛇
+### Nibbles	贪吃蛇
 
 休闲 - 多人: 小蛇游走于迷宫
 
@@ -354,11 +358,15 @@ https://wiki.gnome.org/Apps/Nibbles || [gnome-nibbles](https://www.archlinux.org
 
 
 
+# 测试分割线，下面有空再修正
+
+------
+
+# 测试分割线，下面有空再修正
 
 
 
 
-##### 测试，下面有空再修正
 
 ![Konachan.com - 16 2girls blonde_hair boots hinamori_amu logo mashiro_rima nakayoshi peach-pit pink_hair seifuku short_hair shugo_chara skirt tie yellow_eyes](README-max.assets/Konachan.com - 16 2girls blonde_hair boots hinamori_amu logo mashiro_rima nakayoshi peach-pit pink_hair seifuku short_hair shugo_chara skirt tie yellow_eyes.jpg)
 
@@ -374,7 +382,7 @@ https://wiki.gnome.org/Apps/Nibbles || [gnome-nibbles](https://www.archlinux.org
 
 #### 英文游戏
 
-##### 0ad
+### 0ad
 
 多用户 - 回合制 - 策略游戏:类似于《帝国时代》的策略类3D游戏,需要自己下载中文语言包。有没有发现和魔兽争霸差不多？
 
@@ -388,7 +396,7 @@ http://play0ad.com/ || [0ad](https://www.archlinux.org/packages/community/x86_64
 
 
 
-##### Abuse
+### Abuse
 
 横版射击 - 角色 - 多人联机:侧滚动动作游戏，让你对抗无情的外星杀手。
 
@@ -398,7 +406,7 @@ http://abuse.zoy.org/ || [abuse](https://www.archlinux.org/packages/community/x8
 
 ![截图_2018-07-02_19-29-21](README-max.assets/截图_2018-07-02_19-29-21.png)
 
-##### Angband
+### Angband
 
 *Angband*是一款免费的单人地下城探险游戏，您可以扮演冒险家的角色，探索深层地牢，与怪物战斗，并获得最佳武器，为与黑暗之王Morgoth的最后一场战斗做准备。这个游戏你需要进入Ctrl+Alt+F2,再来命令angband。解决中文字体冲突问题。
 
@@ -406,7 +414,7 @@ http://abuse.zoy.org/ || [abuse](https://www.archlinux.org/packages/community/x8
 
 
 
-##### Block Attack!
+### Block Attack!
 
 
 
@@ -420,11 +428,11 @@ http://abuse.zoy.org/ || [abuse](https://www.archlinux.org/packages/community/x8
 
 
 
-##### BomberClone	炸弹人
+### BomberClone	炸弹人
 
 
 
-##### Dungeon Crawl Stone Soup
+### Dungeon Crawl Stone Soup
 
 
 
@@ -432,7 +440,7 @@ http://abuse.zoy.org/ || [abuse](https://www.archlinux.org/packages/community/x8
 
 ![截图_2018-07-02_20-45-14](README-max.assets/截图_2018-07-02_20-45-14.png)
 
-##### Dwarf Fortress
+### Dwarf Fortress
 
 独立 - 生存 - 地牢 - 随机地图:单人游戏幻想游戏。你在随机生成的持久世界中控制矮人前哨或冒险家。
 
@@ -445,7 +453,7 @@ http://www.bay12games.com/dwarves/ || [dwarffortress](https://www.archlinux.org/
 
 
 
-##### NetHack
+### NetHack
 
 独立 - 生存 - 地牢 - 随机地图:30多年文字游戏,不知道是不是网游?(纯英文)
 
