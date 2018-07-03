@@ -4,7 +4,7 @@
 
 Arch Linux官方[英文WiKi游戏推荐列表](https://wiki.archlinux.org/index.php/List_of_games)或者[中文WiKi游戏推荐列表](https://wiki.archlinux.org/index.php/List_of_games_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87) )  。
 
-(这里不分中英文，英文版WiKi内容永远比中文版更新，更好，所以优先推荐大家使用``英文WiKi`)。
+(这里不分中英文，英文版WiKi内容永远比中文版更新，更好，所以优先推荐大家使用`英文WiKi`)。
 
 [文字版](pandoc-test/README-mini.md)   [彩图版](pandoc-test/README-max-2018年07月03日23时11分37秒.md)
 
