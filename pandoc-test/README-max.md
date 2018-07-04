@@ -72,7 +72,7 @@ http://ccdw.org/~cjj/prog/ccgo/ || [ccgo](https://www.archlinux.org/packages/com
 
 
 
-### Cataclysm: Dark Days Ahead	大灾变(CDDA)
+### Cataclysm Dark Days Ahead	大灾变(CDDA)
 
 独立 - 生存 - 地牢 - 随机地图:这是一个生化危机版生存游戏。
 
@@ -96,7 +96,7 @@ https://wiki.gnome.org/Apps/Chess || [gnome-chess](https://www.archlinux.org/pac
 
 
 
-### DDNet　土豆混战
+### DDNet 土豆混战
 
 多用户 - 快节奏:Teeworlds的修改版,快节奏横向卷轴多人动作射击游戏。
 
@@ -274,7 +274,7 @@ https://kde.org/applications/games/kfourinline/ || [kfourinline](https://www.arc
 
 
 
-### KGoldrunner	淘金，避敌，以及解谜
+### KGoldrunner 淘金，避敌，以及解谜
 
 动作和解谜游戏
 
@@ -640,7 +640,7 @@ https://wiki.gnome.org/Apps/Tetravex || [gnome-tetravex](https://www.archlinux.o
 
 
 
-### The Battle for Wesnoth	韦诺之战
+### The Battle for Wesnoth 韦诺之战
 
 多用户 - 回合制 - 策略游戏:免费的基于回合的战术策略游戏，具有高度的幻想主题，包括单人游戏和在线/多人游戏多人战斗。
 
