@@ -96,7 +96,7 @@ https://wiki.gnome.org/Apps/Chess || [gnome-chess](https://www.archlinux.org/pac
 
 
 
-### DDNet
+### DDNet　土豆混战
 
 多用户 - 快节奏:Teeworlds的修改版,快节奏横向卷轴多人动作射击游戏。
 
@@ -178,7 +178,7 @@ https://wiki.gnome.org/Apps/Hitori || [hitori](https://www.archlinux.org/package
 
 中国传统的四人桌上游戏
 
-
+https://kde.org/applications/games/kajongg/ || [kajongg](https://www.archlinux.org/packages/extra/any/kajongg/)
 
 ![截图_2018-07-03_21-15-03](README-max.assets/截图_2018-07-03_21-15-03.png)
 
@@ -198,7 +198,7 @@ https://wiki.gnome.org/Apps/Klotski || [gnome-klotski](https://www.archlinux.org
 
 逃脱精灵吃豆子
 
-
+https://kde.org/applications/games/kapman/ || [kapman](https://www.archlinux.org/packages/extra/x86_64/kapman/)
 
 ![截图_2018-07-03_21-21-55](README-max.assets/截图_2018-07-03_21-21-55.png)
 
@@ -208,7 +208,7 @@ https://wiki.gnome.org/Apps/Klotski || [gnome-klotski](https://www.archlinux.org
 
 类似推箱子的逻辑游戏
 
-
+https://kde.org/applications/games/kapman/ || [kapman](https://www.archlinux.org/packages/extra/x86_64/kapman/)
 
 ![截图_2018-07-03_21-23-53](README-max.assets/截图_2018-07-03_21-23-53.png)
 
@@ -218,7 +218,7 @@ https://wiki.gnome.org/Apps/Klotski || [gnome-klotski](https://www.archlinux.org
 
 找出所有球隐匿的位置。
 
-
+https://kde.org/applications/games/kblackbox/ || [kblackbox](https://www.archlinux.org/packages/extra/x86_64/kblackbox/)
 
 ![截图_2018-07-03_21-28-28](README-max.assets/截图_2018-07-03_21-28-28.png)
 
@@ -228,7 +228,7 @@ https://wiki.gnome.org/Apps/Klotski || [gnome-klotski](https://www.archlinux.org
 
 俄罗斯方块游戏
 
-
+https://kde.org/applications/games/kblocks/ || [kblocks](https://www.archlinux.org/packages/extra/x86_64/kblocks/)
 
 ![截图_2018-07-03_21-10-47](README-max.assets/截图_2018-07-03_21-10-47.png)
 
@@ -238,7 +238,7 @@ https://wiki.gnome.org/Apps/Klotski || [gnome-klotski](https://www.archlinux.org
 
 知道街机游戏天蚕变吗？
 
-
+https://kde.org/applications/games/kbounce/ ||  [kbounce](https://www.archlinux.org/packages/extra/x86_64/kbounce/)
 
 ![截图_2018-07-03_21-37-42](README-max.assets/截图_2018-07-03_21-37-42.png)
 
@@ -248,19 +248,9 @@ https://wiki.gnome.org/Apps/Klotski || [gnome-klotski](https://www.archlinux.org
 
 街机版和红白机版弹球游戏，都玩过了。
 
-
+https://kde.org/applications/games/kbreakout/ || [kbreakout](https://www.archlinux.org/packages/extra/x86_64/kbreakout/)
 
 ![截图_2018-07-03_21-39-58](README-max.assets/截图_2018-07-03_21-39-58.png)
-
-
-
-### Kcheckers	国际象棋
-
-
-
-
-
-![截图_2018-07-03_21-42-06](README-max.assets/截图_2018-07-03_21-42-06.png)
 
 
 
@@ -268,7 +258,7 @@ https://wiki.gnome.org/Apps/Klotski || [gnome-klotski](https://www.archlinux.org
 
 三子连线棋游戏
 
-
+https://kde.org/applications/games/kdiamond/ || [kdiamond](https://www.archlinux.org/packages/extra/x86_64/kdiamond/)
 
 ![截图_2018-07-03_21-43-53](README-max.assets/截图_2018-07-03_21-43-53.png)
 
@@ -278,7 +268,7 @@ https://wiki.gnome.org/Apps/Klotski || [gnome-klotski](https://www.archlinux.org
 
 四子连珠游戏
 
-
+https://kde.org/applications/games/kfourinline/ || [kfourinline](https://www.archlinux.org/packages/extra/x86_64/kfourinline/)
 
 ![截图_2018-07-03_21-46-05](README-max.assets/截图_2018-07-03_21-46-05.png)
 
@@ -288,19 +278,9 @@ https://wiki.gnome.org/Apps/Klotski || [gnome-klotski](https://www.archlinux.org
 
 动作和解谜游戏
 
-
+https://kde.org/applications/games/kgoldrunner/ || [kgoldrunner](https://www.archlinux.org/packages/extra/x86_64/kgoldrunner/)
 
 ![截图_2018-07-03_21-48-26](README-max.assets/截图_2018-07-03_21-48-26.png)
-
-
-
-### KHangMan	吊颈人游戏
-
-KDE 吊颈人游戏
-
-
-
-![截图_2018-07-03_21-51-28](README-max.assets/截图_2018-07-03_21-51-28.png)
 
 
 
@@ -308,7 +288,7 @@ KDE 吊颈人游戏
 
 围棋游戏
 
-
+https://kde.org/applications/games/kigo/ || [kigo](https://www.archlinux.org/packages/extra/x86_64/kigo/)
 
 ![截图_2018-07-03_21-53-51](README-max.assets/截图_2018-07-03_21-53-51.png)
 
@@ -316,9 +296,9 @@ KDE 吊颈人游戏
 
 ### Killbots	机器人策略游戏
 
-KDE 小游戏，边传送边杀掉机器人。
+回避杀手机器人的简单游戏，参考神经猫。
 
-
+https://kde.org/applications/games/killbots/ || [killbots](https://www.archlinux.org/packages/extra/x86_64/killbots/)
 
 ![截图_2018-07-03_21-55-21](README-max.assets/截图_2018-07-03_21-55-21.png)
 
@@ -328,7 +308,7 @@ KDE 小游戏，边传送边杀掉机器人。
 
 快艇骰子游戏
 
-
+https://kde.org/applications/games/kiriki/ || [kiriki](https://www.archlinux.org/packages/extra/x86_64/kiriki/)
 
 ![截图_2018-07-03_21-57-06](README-max.assets/截图_2018-07-03_21-57-06.png)
 
@@ -336,9 +316,9 @@ KDE 小游戏，边传送边杀掉机器人。
 
 ### KJumpingCube	占领版块
 
-版块占领游戏
+版块占领战术游戏。
 
-
+https://kde.org/applications/games/kjumpingcube/ || [kjumpingcube](https://www.archlinux.org/packages/extra/x86_64/kjumpingcube/)
 
 ![截图_2018-07-03_22-00-12](README-max.assets/截图_2018-07-03_22-00-12.png)
 
@@ -346,9 +326,9 @@ KDE 小游戏，边传送边杀掉机器人。
 
 ### Klickety	消除色块游戏
 
+Clickomania游戏的改编
 
-
-
+https://kde.org/applications/games/klickety/ || [klickety](https://www.archlinux.org/packages/extra/x86_64/klickety/)
 
 ![截图_2018-07-03_22-02-23](README-max.assets/截图_2018-07-03_22-02-23.png)
 
@@ -358,7 +338,7 @@ KDE 小游戏，边传送边杀掉机器人。
 
 麻将连连看游戏
 
-
+https://kde.org/applications/games/kmahjongg/ || [kmahjongg](https://www.archlinux.org/packages/extra/x86_64/kmahjongg/)
 
 ![截图_2018-07-03_22-03-45](README-max.assets/截图_2018-07-03_22-03-45.png)
 
@@ -366,9 +346,9 @@ KDE 小游戏，边传送边杀掉机器人。
 
 ### KMines	扫雷
 
-扫雷游戏
+扫雷游戏,相对于Win7来说，不智能。
 
-
+https://kde.org/applications/games/kmines/ || [kmines](https://www.archlinux.org/packages/extra/x86_64/kmines/)
 
 ![截图_2018-07-03_22-05-28](README-max.assets/截图_2018-07-03_22-05-28.png)
 
@@ -378,7 +358,7 @@ KDE 小游戏，边传送边杀掉机器人。
 
 类似管道维修的游戏
 
-
+https://kde.org/applications/games/knetwalk/ ||	[knetwalk](https://www.archlinux.org/packages/extra/x86_64/knetwalk/)
 
 ![截图_2018-07-03_22-06-41](README-max.assets/截图_2018-07-03_22-06-41.png)
 
@@ -388,47 +368,47 @@ KDE 小游戏，边传送边杀掉机器人。
 
 国际象棋游戏
 
-
+https://www.kde.org/applications/games/knights/ || [knights](https://www.archlinux.org/packages/community/x86_64/knights/)
 
 ![截图_2018-07-03_22-08-40](README-max.assets/截图_2018-07-03_22-08-40.png)
 
 
 
-### Kolf
+### Kolf	微型高尔夫
 
-Miniature Golf
+一个微型高尔夫游戏，2d自上而下的视图。
 
-
+https://kde.org/applications/games/kolf/ || [kolf](https://www.archlinux.org/packages/extra/x86_64/kolf/)
 
 ![截图_2018-07-03_22-10-35](README-max.assets/截图_2018-07-03_22-10-35.png)
 
 
 
-### Kollision
+### Kollision 坚持30秒
 
 讲个笑话，是男人，坚持３０秒。
 
-
+https://kde.org/applications/games/kollision/ || [kollision](https://www.archlinux.org/packages/extra/x86_64/kollision/)
 
 ![截图_2018-07-03_22-12-17](README-max.assets/截图_2018-07-03_22-12-17.png)
 
 
 
-### Kolor Lines
+### Kolor Lines	连珠游戏
 
 类似连珠游戏
 
-
+https://kde.org/applications/games/klines/ || [klines](https://www.archlinux.org/packages/extra/x86_64/klines/)
 
 ![截图_2018-07-03_22-14-34](README-max.assets/截图_2018-07-03_22-14-34.png)
 
 
 
-### Konquest
+### Konquest	星际策略
 
 星际策略游戏
 
-
+https://kde.org/applications/games/konquest/ || [konquest](https://www.archlinux.org/packages/extra/x86_64/konquest/)
 
 ![截图_2018-07-03_22-17-10](README-max.assets/截图_2018-07-03_22-17-10.png)
 
@@ -436,29 +416,29 @@ Miniature Golf
 
 ### KPatience 单人纸牌游戏
 
-考验耐心的牌类游戏
+提供各种单人纸牌游戏
 
-
+https://kde.org/applications/games/kpatience/ || [kpatience](https://www.archlinux.org/packages/extra/x86_64/kpatience/)
 
 ![截图_2018-07-03_22-18-30](README-max.assets/截图_2018-07-03_22-18-30.png)
 
 
 
-### KReversi
+### KReversi	黑白棋
 
+黑白棋棋盘游戏
 
-
-
+https://kde.org/applications/games/kreversi/ || [kreversi](https://www.archlinux.org/packages/extra/x86_64/kreversi/)
 
 ![截图_2018-07-03_22-20-13](README-max.assets/截图_2018-07-03_22-20-13.png)
 
 
 
-### KsirK
+### KsirK	统治世界
 
-World Domination Strategy Game
+世界统治战略游戏
 
-
+https://kde.org/applications/games/ksirk/ || [ksirk](https://www.archlinux.org/packages/extra/x86_64/ksirk/)
 
 ![截图_2018-07-03_22-21-58](README-max.assets/截图_2018-07-03_22-21-58.png)
 
@@ -466,9 +446,9 @@ World Domination Strategy Game
 
 ### KSnakeDuel	超空间竞速
 
+一场简单的蛇决斗比赛
 
-
-
+https://kde.org/applications/games/ksnakeduel/ || [ksnakeduel](https://www.archlinux.org/packages/extra/x86_64/ksnakeduel/)
 
 ![截图_2018-07-03_22-24-32](README-max.assets/截图_2018-07-03_22-24-32.png)
 
@@ -476,19 +456,19 @@ World Domination Strategy Game
 
 ### KSpaceDuel	空间型街机游戏
 
+两个可能的玩家中的每一个控制围绕太阳运行的卫星太空船
 
-
-
+https://kde.org/applications/games/kspaceduel/ || [kspaceduel](https://www.archlinux.org/packages/extra/x86_64/kspaceduel/)
 
 ![截图_2018-07-03_22-26-44](README-max.assets/截图_2018-07-03_22-26-44.png)
 
 
 
-### KSquares
+### KSquares	方块旗力
 
 通过点连接创建方形
 
-
+https://kde.org/applications/games/ksquares/ || [ksquares](https://www.archlinux.org/packages/extra/x86_64/ksquares/)
 
 ![截图_2018-07-03_22-29-06](README-max.assets/截图_2018-07-03_22-29-06.png)
 
@@ -498,7 +478,7 @@ World Domination Strategy Game
 
 多种类数独游戏
 
-
+https://kde.org/applications/games/ksudoku/ || [ksudoku](https://www.archlinux.org/packages/extra/x86_64/ksudoku/)
 
 ![截图_2018-07-03_22-30-14](README-max.assets/截图_2018-07-03_22-30-14.png)
 
@@ -508,7 +488,7 @@ World Domination Strategy Game
 
 不错的魔方游戏，解不了的，可以用电脑自动解决。可以载入存档。
 
-
+https://kde.org/applications/games/kubrick/ || [kubrick](https://www.archlinux.org/packages/extra/x86_64/kubrick/)
 
 ![截图_2018-07-03_22-32-32](README-max.assets/截图_2018-07-03_22-32-32.png)
 
@@ -556,9 +536,9 @@ https://wiki.gnome.org/Apps/Mahjongg || [gnome-mahjongg](https://www.archlinux.o
 
 ### MegaGlest
 
-需要手动设置中文
+Fork of Glest，一个梦幻世界中的3D即时战略游戏。（需要手动设置中文）
 
-https://megaglest.org
+https://megaglest.org || [megaglest](https://www.archlinux.org/packages/community/x86_64/megaglest/)
 
 ![截图_2018-07-03_14-52-57](README-max.assets/截图_2018-07-03_14-52-57.png)
 
@@ -576,11 +556,11 @@ https://kde.org/applications/games/kmines/ || [kmines](https://www.archlinux.org
 
 
 
-### Pingus	
+### Pingus 挖地企鹅
 
+Lemmings克隆，即基于关卡的益智游戏。
 
-
-
+http://pingus.seul.org/ || [pingus](https://www.archlinux.org/packages/community/x86_64/pingus/)
 
 ![截图_2018-07-03_15-04-33](README-max.assets/截图_2018-07-03_15-04-33.png)
 
@@ -805,6 +785,26 @@ http://www.bay12games.com/dwarves/ || [dwarffortress](https://www.archlinux.org/
 
 
 ![截图_2018-07-03_21-18-46](README-max.assets/截图_2018-07-03_21-18-46-1530624084806.png)
+
+
+
+### Kcheckers	跳棋
+
+基于Qt4的跳棋棋盘游戏
+
+http://qcheckers.sourceforge.net/ || [kcheckers](https://www.archlinux.org/packages/community/x86_64/kcheckers/)
+
+![截图_2018-07-03_21-42-06](README-max.assets/截图_2018-07-03_21-42-06.png)
+
+
+
+### KHangMan	吊颈人游戏
+
+**KHangMan**是一款基于着名的刽子手游戏的游戏。它针对六岁及以上的儿童。游戏中有几类词语可供使用，例如：动物（动物词）和三种难度类别：简单，中等和难度。随机挑选一个单词，隐藏字母，你必须通过尝试一个接一个的字母来猜测单词。每当你猜错了一个字母，就会画一部刽子手的照片。在被绞死之前你必须猜出这个词！你有10次尝试。
+
+https://kde.org/applications/education/khangman/ || [khangman](https://www.archlinux.org/packages/extra/x86_64/khangman/)
+
+![截图_2018-07-03_21-51-28](README-max.assets/截图_2018-07-03_21-51-28.png)
 
 
 
