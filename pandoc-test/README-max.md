@@ -86,6 +86,16 @@ http://en.cataclysmdda.com/ || [cataclysm-dda](https://www.archlinux.org/package
 
 
 
+### Checkers	跳棋
+
+
+
+
+
+![截图_2018-07-05_14-58-31](../../../Desktop/截图_2018-07-05_14-58-31.png)
+
+
+
 ### Chess 国际象棋
 
 2D国际象棋游戏
@@ -105,6 +115,36 @@ https://ddnet.tw/ || [ddnet](https://aur.archlinux.org/packages/ddnet/)AUR
 ![截图_2018-07-01_20-52-32](README-max.assets/截图_2018-07-01_20-52-32.png)
 
 ![截图_2018-07-01_20-49-56](README-max.assets/截图_2018-07-01_20-49-56.png)
+
+
+
+### Dungeon Crawl Stone Soup
+
+
+
+
+
+![截图_2018-07-05_15-05-13](README-max.assets/截图_2018-07-05_15-05-13.png)
+
+
+
+### Dwarf Fortress
+
+
+
+
+
+![截图_2018-07-05_15-06-43](README-max.assets/截图_2018-07-05_15-06-43.png)		
+
+
+
+### Extreme Tux Racer
+
+
+
+
+
+![截图_2018-07-05_16-39-06](README-max.assets/截图_2018-07-05_16-39-06.png)
 
 
 
@@ -146,6 +186,46 @@ http://www.freecol.org/ || [freecol](https://www.archlinux.org/packages/communit
 
 
 
+### FreeDroid
+
+
+
+
+
+![截图_2018-07-05_16-50-32](README-max.assets/截图_2018-07-05_16-50-32.png)
+
+
+
+### Frozen Bubble
+
+
+
+
+
+![截图_2018-07-05_16-54-16](README-max.assets/截图_2018-07-05_16-54-16.png)
+
+
+
+### GCompris 教育游戏
+
+为 2 到 10 岁儿童准备的多功能教育游戏
+
+
+
+![截图_2018-07-05_16-58-23](README-max.assets/截图_2018-07-05_16-58-23.png)
+
+
+
+### Foobillard++
+
+
+
+
+
+![截图_2018-07-05_16-46-12](README-max.assets/截图_2018-07-05_16-46-12.png)
+
+
+
 ### Four in a Row	四子连线
 
 将四粒棋子排成一线以取胜
@@ -164,6 +244,26 @@ https://wiki.gnome.org/Apps/gbrainy || [gbrainy](https://www.archlinux.org/packa
 
 
 
+### Granatier
+
+炸弹人游戏复刻
+
+
+
+![截图_2018-07-05_17-03-29](README-max.assets/截图_2018-07-05_17-03-29.png)
+
+
+
+### Hedgewars
+
+
+
+
+
+![截图_2018-07-05_17-09-05](README-max.assets/截图_2018-07-05_17-09-05.png)
+
+
+
 ### Hitori	错误的数独
 
 类似错的数独游戏开局，要求清除多余冲突数字
@@ -171,6 +271,16 @@ https://wiki.gnome.org/Apps/gbrainy || [gbrainy](https://www.archlinux.org/packa
 https://wiki.gnome.org/Apps/Hitori || [hitori](https://www.archlinux.org/packages/extra/x86_64/hitori/)
 
 ![截图_2018-07-03_10-12-46](README-max.assets/截图_2018-07-03_10-12-46.png)
+
+
+
+### Infra Arcana
+
+
+
+
+
+![截图_2018-07-05_17-12-31](README-max.assets/截图_2018-07-05_17-12-31.png)
 
 
 
@@ -524,6 +634,26 @@ https://wiki.gnome.org/Apps/Lightsoff || [lightsoff](https://www.archlinux.org/p
 
 
 
+### LSkat
+
+
+
+
+
+![截图_2018-07-05_17-17-44](README-max.assets/截图_2018-07-05_17-17-44.png)
+
+
+
+### Mahjong
+
+
+
+
+
+![截图_2018-07-05_17-20-12](README-max.assets/截图_2018-07-05_17-20-12.png)
+
+
+
 ### Mahjongg	麻将对对碰
 
 经典东方瓷砖游戏Mahjongg的单人纸牌（单人游戏）版本。目标是选择相似的瓷砖对。
@@ -546,6 +676,16 @@ https://megaglest.org || [megaglest](https://www.archlinux.org/packages/communit
 
 
 
+### Minecraft
+
+
+
+
+
+![截图_2018-07-05_17-22-28](README-max.assets/截图_2018-07-05_17-22-28.png)
+
+
+
 ### Mines	扫雷
 
 扫除雷区里的隐藏的地雷
@@ -553,6 +693,16 @@ https://megaglest.org || [megaglest](https://www.archlinux.org/packages/communit
 https://kde.org/applications/games/kmines/ || [kmines](https://www.archlinux.org/packages/extra/x86_64/kmines/)
 
 ![截图_2018-07-03_08-09-06](README-max.assets/截图_2018-07-03_08-09-06.png)
+
+
+
+### Naval Battle
+
+
+
+
+
+![截图_2018-07-05_17-25-30](README-max.assets/截图_2018-07-05_17-25-30.png)
 
 
 
@@ -588,6 +738,26 @@ https://wiki.gnome.org/Apps/Robots || [gnome-robots](https://www.archlinux.org/p
 
 
 
+### SameGame
+
+
+
+
+
+![截图_2018-07-05_17-34-24](README-max.assets/截图_2018-07-05_17-34-24.png)
+
+
+
+### Simutrans
+
+
+
+
+
+![截图_2018-07-05_17-37-31](README-max.assets/截图_2018-07-05_17-37-31.png)
+
+
+
 ### sudoku	数独
 
 通过这个数字格子解谜游戏测试您的逻辑能力
@@ -595,6 +765,36 @@ https://wiki.gnome.org/Apps/Robots || [gnome-robots](https://www.archlinux.org/p
 https://wiki.gnome.org/Apps/Sudoku || [gnome-sudoku](https://www.archlinux.org/packages/extra/x86_64/gnome-sudoku/)
 
 ![截图_2018-07-03_08-13-19](README-max.assets/截图_2018-07-03_08-13-19.png)
+
+
+
+### SuperTux 2
+
+
+
+
+
+![截图_2018-07-05_17-45-00](README-max.assets/截图_2018-07-05_17-45-00.png)
+
+
+
+### Speed Dreams
+
+
+
+
+
+![截图_2018-07-05_17-41-40](../../../Pictures/截图_2018-07-05_17-41-40.png)
+
+
+
+### SuperTuxKart
+
+
+
+
+
+![截图_2018-07-05_17-47-02](../../../Pictures/截图_2018-07-05_17-47-02.png)
 
 
 
@@ -652,6 +852,16 @@ https://www.wesnoth.org/ || [wesnoth](https://www.archlinux.org/packages/commu
 
 
 
+### ToME4
+
+
+
+
+
+![截图_2018-07-05_17-51-55](README-max.assets/截图_2018-07-05_17-51-55.png)
+
+
+
 ### Nibbles	贪吃蛇
 
 休闲 - 多人: 小蛇游走于迷宫
@@ -663,6 +873,46 @@ https://wiki.gnome.org/Apps/Nibbles || [gnome-nibbles](https://www.archlinux.org
 ![截图_2018-07-03_08-31-30](README-max.assets/截图_2018-07-03_08-31-30.png)
 
 ![截图_2018-07-03_08-31-48](README-max.assets/截图_2018-07-03_08-31-48.png)
+
+
+
+### Widelands
+
+
+
+
+
+![截图_2018-07-05_17-56-28](README-max.assets/截图_2018-07-05_17-56-28.png)
+
+![截图_2018-07-05_17-55-37](README-max.assets/截图_2018-07-05_17-55-37.png)
+
+
+
+### Xmoto
+
+
+
+
+
+![截图_2018-07-05_17-59-09](README-max.assets/截图_2018-07-05_17-59-09.png)
+
+
+
+### Zaz
+
+
+
+
+
+![截图_2018-07-05_18-01-53](README-max.assets/截图_2018-07-05_18-01-53.png)
+
+
+
+
+
+
+
+
 
 
 
@@ -776,7 +1026,9 @@ http://www.bay12games.com/dwarves/ || [dwarffortress](https://www.archlinux.org/
 
 
 
-![截图_2018-07-03_21-08-57](../../Desktop/截图_2018-07-03_21-08-57.png)
+![截图_2018-07-05_17-05-42](README-max.assets/截图_2018-07-05_17-05-42.png)
+
+
 
 ### kanagram	字母顺序游戏
 
