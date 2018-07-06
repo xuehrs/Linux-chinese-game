@@ -862,7 +862,9 @@ http://abuse.zoy.org/ || [abuse](https://www.archlinux.org/packages/community/x8
 
 http://rephial.org/ || [angband](https://www.archlinux.org/packages/community/x86_64/angband/)
 
-无法截图，无法运行。需要纯英文前端（终端），看起来应该是字体问题。而且来自官方仓库里的，几乎不会出现运行ｂｕｇ。
+无法截图，无法运行。需要纯英文前端（终端），看起来应该是字体问题。而且来自官方仓库里的，应该不会出现运行ｂｕｇ。但是懒得改用中文字体。
+
+![d1a20cf431adcbef3edc6aada6af2edda2cc9fb4](README-max.assets/d1a20cf431adcbef3edc6aada6af2edda2cc9fb4.jpg)
 
 
 
@@ -870,7 +872,7 @@ http://rephial.org/ || [angband](https://www.archlinux.org/packages/community/x8
 
 找不到哪里的包，这个游戏不错
 
-
+http://www.fltk.org/ || [fltk-games](https://www.archlinux.org/packages/community/x86_64/fltk-games/)
 
 ![截图_2018-07-02_20-29-52](README-max.assets/截图_2018-07-02_20-29-52.png)
 
