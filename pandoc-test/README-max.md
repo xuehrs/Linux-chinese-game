@@ -88,11 +88,11 @@ http://en.cataclysmdda.com/ || [cataclysm-dda](https://www.archlinux.org/package
 
 ### Checkers	跳棋
 
+伴随FLTK的示例游戏：块，跳棋和数独游戏
 
+http://www.fltk.org/ || fltk-[games](https://www.archlinux.org/packages/community/x86_64/fltk-games/)
 
-
-
-![截图_2018-07-05_14-58-31](../../../Desktop/截图_2018-07-05_14-58-31.png)
+![截图_2018-07-05_14-58-31](README-max.assets/截图_2018-07-05_14-58-31.png)
 
 
 
@@ -120,29 +120,41 @@ https://ddnet.tw/ || [ddnet](https://aur.archlinux.org/packages/ddnet/)AUR
 
 ### Dungeon Crawl Stone Soup
 
+通过充满危险怪物的地下城进行的roguelike探险，以寻找神秘的Zot Orb。
 
-
-
+https://crawl.develz.org/ || [crawl-tiles](https://aur.archlinux.org/packages/crawl-tiles/)AUR
 
 ![截图_2018-07-05_15-05-13](README-max.assets/截图_2018-07-05_15-05-13.png)
 
+![dcss-splash-6](README-max.assets/dcss-splash-6.png)
 
+![dcss-splash-0](README-max.assets/dcss-splash-0.png)
+
+![dcss-splash-2](README-max.assets/dcss-splash-2.png)
+
+![dcss-splash-8](README-max.assets/dcss-splash-8.png)
+
+![dcss-splash-4](README-max.assets/dcss-splash-4.png)
+
+![dcss-splash-7](README-max.assets/dcss-splash-7.png)
 
 ### Dwarf Fortress
 
+一个单人幻想游戏，你可以在这个游戏中建立一个矮人前哨或在随机生成的世界中扮演一个冒险家。这个游戏有很多不同版本的图形前端。
 
+http://www.bay12games.com/dwarves/ || [dwarffortress](https://www.archlinux.org/packages/community/x86_64/dwarffortress/)
 
-
+http://www.dwarffortresswiki.org/index.php/DF2014:Installation#Download || [dwarffortress-ironhand](https://aur.archlinux.org/packages/dwarffortress-ironhand/)AUR || [dwarffortress-phoebus](https://aur.archlinux.org/packages/dwarffortress-phoebus/)AUR
 
 ![截图_2018-07-05_15-06-43](README-max.assets/截图_2018-07-05_15-06-43.png)		
 
 
 
-### Extreme Tux Racer
+### Extreme Tux Racer 企鹅滑雪极限版
 
+谁说企鹅不会飞？冬天来临，冰雪开始慢慢地封住山峦。你想知道山坡雪地下滑的速度极限？还是想体验惊险刺激？
 
-
-
+http://sourceforge.net/projects/extremetuxracer/ || [extremetuxracer](https://www.archlinux.org/packages/community/x86_64/extremetuxracer/)
 
 ![截图_2018-07-05_16-39-06](README-max.assets/截图_2018-07-05_16-39-06.png)
 
@@ -188,9 +200,9 @@ http://www.freecol.org/ || [freecol](https://www.archlinux.org/packages/communit
 
 ### FreeDroid
 
+Commodore 64上经典游戏'Paradroid'的克隆版，通过摧毁它们或通过迷你游戏将它们带走来清除敌方机器人的太空船队。
 
-
-
+http://freedroid.sourceforge.net/ || [freedroid](https://www.archlinux.org/packages/community/x86_64/freedroid/)
 
 ![截图_2018-07-05_16-50-32](README-max.assets/截图_2018-07-05_16-50-32.png)
 
@@ -210,17 +222,17 @@ http://www.freecol.org/ || [freecol](https://www.archlinux.org/packages/communit
 
 为 2 到 10 岁儿童准备的多功能教育游戏
 
-
+http://gcompris.net/ || [gcompris-qt](https://www.archlinux.org/packages/community/x86_64/gcompris-qt/)
 
 ![截图_2018-07-05_16-58-23](README-max.assets/截图_2018-07-05_16-58-23.png)
 
 
 
-### Foobillard++
+### Foobillard++	OpenGL台球游戏
 
+OpenGL台球游戏
 
-
-
+http://foobillardplus.sourceforge.net/ || [foobillard++](https://www.archlinux.org/packages/extra/x86_64/foobillard++/)
 
 ![截图_2018-07-05_16-46-12](README-max.assets/截图_2018-07-05_16-46-12.png)
 
@@ -244,11 +256,11 @@ https://wiki.gnome.org/Apps/gbrainy || [gbrainy](https://www.archlinux.org/packa
 
 
 
-### Granatier
+### Granatier	炸弹人
 
-炸弹人游戏复刻
+经典炸弹人游戏的克隆
 
-
+https://kde.org/applications/games/granatier/ || [granatier](https://www.archlinux.org/packages/extra/x86_64/granatier/)
 
 ![截图_2018-07-05_17-03-29](README-max.assets/截图_2018-07-05_17-03-29.png)
 
@@ -256,9 +268,9 @@ https://wiki.gnome.org/Apps/gbrainy || [gbrainy](https://www.archlinux.org/packa
 
 ### Hedgewars
 
+基于回合制的战略炮兵游戏类似于蠕虫。刚刚开始我还以为是那个童话故事。
 
-
-
+https://hedgewars.org/ || [hedgewars](https://www.archlinux.org/packages/community/x86_64/hedgewars/)
 
 ![截图_2018-07-05_17-09-05](README-max.assets/截图_2018-07-05_17-09-05.png)
 
@@ -276,9 +288,11 @@ https://wiki.gnome.org/Apps/Hitori || [hitori](https://www.archlinux.org/package
 
 ### Infra Arcana
 
+Roguelike游戏灵感来自HP Lovecraft。
 
+https://sites.google.com/site/infraarcana/home || [infra-arcana](https://aur.archlinux.org/packages/infra-arcana/)AUR
 
-
+https://gitlab.com/martin-tornqvist/ia || [infra-arcana-git](https://aur.archlinux.org/packages/infra-arcana-git/)AUR
 
 ![截图_2018-07-05_17-12-31](README-max.assets/截图_2018-07-05_17-12-31.png)
 
@@ -468,7 +482,7 @@ https://kde.org/applications/games/kmines/ || [kmines](https://www.archlinux.org
 
 类似管道维修的游戏
 
-https://kde.org/applications/games/knetwalk/ ||	[knetwalk](https://www.archlinux.org/packages/extra/x86_64/knetwalk/)
+https://kde.org/applications/games/knetwalk/ ||	[knetwalk](https://www.archlinux.org/packages/extra/x86_64/knetwalk/ )
 
 ![截图_2018-07-03_22-06-41](README-max.assets/截图_2018-07-03_22-06-41.png)
 
@@ -634,21 +648,21 @@ https://wiki.gnome.org/Apps/Lightsoff || [lightsoff](https://www.archlinux.org/p
 
 
 
-### LSkat
+### LSkat	中尉Skat
 
+中尉Skat是一款适合两名玩家的有趣且引人入胜的纸牌游戏。
 
-
-
+https://kde.org/applications/games/lskat/ || [lskat](https://www.archlinux.org/packages/extra/x86_64/lskat/)
 
 ![截图_2018-07-05_17-17-44](README-max.assets/截图_2018-07-05_17-17-44.png)
 
 
 
-### Mahjong
+### Mahjong　麻将
 
+具有网络支持的Mah Jong经典游戏（不是solitare版本）。
 
-
-
+http://mahjong.julianbradfield.org/ || [mahjong](https://www.archlinux.org/packages/community/x86_64/mahjong/)
 
 ![截图_2018-07-05_17-20-12](README-max.assets/截图_2018-07-05_17-20-12.png)
 
@@ -676,11 +690,11 @@ https://megaglest.org || [megaglest](https://www.archlinux.org/packages/communit
 
 
 
-### Minecraft
+### Minecraft	我的世界
 
+一个开放世界的游戏，其游戏玩法围绕打破和放置块。
 
-
-
+http://www.minecraft.net/ || [minecraft](https://aur.archlinux.org/packages/minecraft/)
 
 ![截图_2018-07-05_17-22-28](README-max.assets/截图_2018-07-05_17-22-28.png)
 
@@ -698,9 +712,9 @@ https://kde.org/applications/games/kmines/ || [kmines](https://www.archlinux.org
 
 ### Naval Battle
 
+一艘沉没的游戏。
 
-
-
+https://kde.org/applications/games/knavalbattle/ || [knavalbattle](https://www.archlinux.org/packages/extra/x86_64/knavalbattle/)
 
 ![截图_2018-07-05_17-25-30](README-max.assets/截图_2018-07-05_17-25-30.png)
 
@@ -740,9 +754,9 @@ https://wiki.gnome.org/Apps/Robots || [gnome-robots](https://www.archlinux.org/p
 
 ### SameGame
 
+色块消去游戏
 
-
-
+https://kde.org/applications/games/klickety/ || [klickety](https://www.archlinux.org/packages/extra/x86_64/klickety/)
 
 ![截图_2018-07-05_17-34-24](README-max.assets/截图_2018-07-05_17-34-24.png)
 
@@ -750,9 +764,9 @@ https://wiki.gnome.org/Apps/Robots || [gnome-robots](https://www.archlinux.org/p
 
 ### Simutrans
 
+一个开源运输模拟游戏。
 
-
-
+https://www.simutrans.com/ || [simutrans](https://www.archlinux.org/packages/community/x86_64/simutrans/) || [simutrans-pak128](https://www.archlinux.org/packages/community/any/simutrans-pak128/)
 
 ![截图_2018-07-05_17-37-31](README-max.assets/截图_2018-07-05_17-37-31.png)
 
@@ -770,9 +784,9 @@ https://wiki.gnome.org/Apps/Sudoku || [gnome-sudoku](https://www.archlinux.org/p
 
 ### SuperTux 2
 
+一款经典的2D jump'n'run sidescroller游戏，风格类似于原版SuperMario游戏
 
-
-
+https://github.com/supertux/supertux || [supertux](https://www.archlinux.org/packages/community/x86_64/simutrans/)
 
 ![截图_2018-07-05_17-45-00](README-max.assets/截图_2018-07-05_17-45-00.png)
 
@@ -780,21 +794,21 @@ https://wiki.gnome.org/Apps/Sudoku || [gnome-sudoku](https://www.archlinux.org/p
 
 ### Speed Dreams
 
+具有丰富图形和物理特性的赛车模拟器。
 
+http://speed-dreams.sourceforge.net/ || [speed-dreams](https://www.archlinux.org/packages/community/x86_64/speed-dreams/)
 
-
-
-![截图_2018-07-05_17-41-40](../../../Pictures/截图_2018-07-05_17-41-40.png)
+![截图_2018-07-05_17-41-40](README-max.assets/截图_2018-07-05_17-41-40.png)
 
 
 
 ### SuperTuxKart
 
+卡特赛车游戏以Tux和他的朋友为特色。
 
+http://supertuxkart.sourceforge.net/ || [supertuxkart](https://www.archlinux.org/packages/community/x86_64/supertuxkart/)
 
-
-
-![截图_2018-07-05_17-47-02](../../../Pictures/截图_2018-07-05_17-47-02.png)
+![截图_2018-07-05_17-47-02](README-max.assets/截图_2018-07-05_17-47-02.png)
 
 
 
@@ -854,9 +868,9 @@ https://www.wesnoth.org/ || [wesnoth](https://www.archlinux.org/packages/commu
 
 ### ToME4
 
+一个开源的，单人游戏，角色扮演类游戏，在EAYL的世界。
 
-
-
+http://tome.te4.org/ || [tome4](https://aur.archlinux.org/packages/tome4/)AUR || [tome4-beta](https://aur.archlinux.org/packages/tome4-beta/)AUR || [tome4-git](https://aur.archlinux.org/packages/tome4-git/)AUR
 
 ![截图_2018-07-05_17-51-55](README-max.assets/截图_2018-07-05_17-51-55.png)
 
@@ -878,9 +892,9 @@ https://wiki.gnome.org/Apps/Nibbles || [gnome-nibbles](https://www.archlinux.org
 
 ### Widelands
 
+一个实时战略游戏，重点是经济和运输。
 
-
-
+http://widelands.org/ || [widelands](https://www.archlinux.org/packages/community/x86_64/widelands/)
 
 ![截图_2018-07-05_17-56-28](README-max.assets/截图_2018-07-05_17-56-28.png)
 
@@ -890,9 +904,9 @@ https://wiki.gnome.org/Apps/Nibbles || [gnome-nibbles](https://www.archlinux.org
 
 ### Xmoto
 
+具有挑战性的2D越野摩托车平台游戏，其中物理起着重要作用。
 
-
-
+http://xmoto.tuxfamily.org/ || [xmoto](https://www.archlinux.org/packages/community/x86_64/xmoto/)
 
 ![截图_2018-07-05_17-59-09](README-max.assets/截图_2018-07-05_17-59-09.png)
 
@@ -900,9 +914,9 @@ https://wiki.gnome.org/Apps/Nibbles || [gnome-nibbles](https://www.archlinux.org
 
 ### Zaz
 
+操作风格类似泡泡龙版祖玛
 
-
-
+http://sourceforge.net/projects/zaz/ || [zaz](https://www.archlinux.org/packages/community/x86_64/zaz/)
 
 ![截图_2018-07-05_18-01-53](README-max.assets/截图_2018-07-05_18-01-53.png)
 
@@ -1071,6 +1085,12 @@ http://www.nethack.org/index.html || [nethack](https://www.archlinux.org/package
 ![截图_2018-07-02_19-54-50](README-max.assets/截图_2018-07-02_19-54-50.png)
 
 
+
+### Rogue　
+
+原始的地下城爬行游戏。没有图形界面，终端rogue运行。
+
+http://www.roguebasin.com/index.php?title=Rogue || [rogue](https://www.archlinux.org/packages/community/x86_64/rogue/)
 
 ### Shattered Pixel Dungeon
 
