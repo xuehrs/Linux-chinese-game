@@ -819,21 +819,6 @@ http://widelands.org/ || [widelands](https://www.archlinux.org/packages/communit
 
 
 
-# 测试分割线，下面有空再修正
-
-------
-
-# 测试分割线，下面有空再修正
-
-
-
-
-
-![Konachan.com - 16 2girls blonde_hair boots hinamori_amu logo mashiro_rima nakayoshi peach-pit pink_hair seifuku short_hair shugo_chara skirt tie yellow_eyes](README-max.assets/Konachan.com - 16 2girls blonde_hair boots hinamori_amu logo mashiro_rima nakayoshi peach-pit pink_hair seifuku short_hair shugo_chara skirt tie yellow_eyes.jpg)
-
-
-
-
 
 
 
@@ -842,6 +827,8 @@ http://widelands.org/ || [widelands](https://www.archlinux.org/packages/communit
 
 
 ## 英文游戏
+
+
 
 ### 0ad
 
@@ -867,17 +854,21 @@ http://abuse.zoy.org/ || [abuse](https://www.archlinux.org/packages/community/x8
 
 ![截图_2018-07-02_19-29-21](README-max.assets/截图_2018-07-02_19-29-21.png)
 
+
+
 ### Angband
 
 *Angband*是一款免费的单人地下城探险游戏，您可以扮演冒险家的角色，探索深层地牢，与怪物战斗，并获得最佳武器，为与黑暗之王Morgoth的最后一场战斗做准备。这个游戏你需要进入Ctrl+Alt+F2,再来命令angband。解决中文字体冲突问题。
 
+http://rephial.org/ || [angband](https://www.archlinux.org/packages/community/x86_64/angband/)
 
+无法截图，无法运行。需要纯英文前端（终端），看起来应该是字体问题。而且来自官方仓库里的，几乎不会出现运行ｂｕｇ。
 
 
 
 ### Block Attack!
 
-
+找不到哪里的包，这个游戏不错
 
 
 
@@ -891,7 +882,13 @@ http://abuse.zoy.org/ || [abuse](https://www.archlinux.org/packages/community/x8
 
 ### BomberClone	炸弹人
 
+克隆的原子炸弹人游戏
 
+http://www.bomberclone.de/ || [bomberclone](https://www.archlinux.org/packages/community/x86_64/bomberclone/)
+
+![截图_2018-07-06_10-45-03](README-max.assets/截图_2018-07-06_10-45-03.png)
+
+![截图_2018-07-06_10-46-50](README-max.assets/截图_2018-07-06_10-46-50.png)
 
 
 
@@ -965,9 +962,9 @@ http://freedroid.sourceforge.net/ || [freedroid](https://www.archlinux.org/packa
 
 ### Gweled
 
+类似于宝石迷阵（又名钻石矿）的益智游戏。
 
-
-
+https://launchpad.net/gweled/ || [gweled](https://www.archlinux.org/packages/extra/x86_64/gweled/)
 
 ![截图_2018-07-05_17-05-42](README-max.assets/截图_2018-07-05_17-05-42.png)
 
@@ -975,9 +972,9 @@ http://freedroid.sourceforge.net/ || [freedroid](https://www.archlinux.org/packa
 
 ### kanagram	字母顺序游戏
 
+信件订购游戏
 
-
-
+https://kde.org/applications/education/kanagram/ || [kanagram](https://www.archlinux.org/packages/extra/x86_64/kanagram/)
 
 ![截图_2018-07-03_21-18-46](README-max.assets/截图_2018-07-03_21-18-46-1530624084806.png)
 
@@ -1021,7 +1018,7 @@ http://www.nethack.org/index.html || [nethack](https://www.archlinux.org/package
 
 ![截图_2018-07-06_10-08-00](README-max.assets/截图_2018-07-06_10-08-00.png)
 
-![截图_2018-07-02_19-54-50](README-max.assets/截图_2018-07-02_19-54-50.png)
+![截图_2018-07-06_10-55-16](README-max.assets/截图_2018-07-06_10-55-16.png)
 
 
 
@@ -1065,11 +1062,11 @@ http://supertuxkart.sourceforge.net/ || [supertuxkart](https://www.archlinux.org
 
 
 
-### Shattered Pixel Dungeon
+### Shattered Pixel Dungeon	破碎的地牢
 
+像素版地牢游戏。
 
-
-
+http://shatteredpixel.tumblr.com/ || [shattered-pixel-dungeon](https://aur.archlinux.org/packages/shattered-pixel-dungeon/)AUR || [shattered-pixel-dungeon-git](https://aur.archlinux.org/packages/shattered-pixel-dungeon-git/)AUR
 
 ![截图_2018-07-03_15-10-12](README-max.assets/截图_2018-07-03_15-10-12.png)
 
@@ -1077,13 +1074,11 @@ http://supertuxkart.sourceforge.net/ || [supertuxkart](https://www.archlinux.org
 
 
 
-### Teeworlds	
+### Teeworlds
 
-和DDNet中文游戏一样
+快节奏的多人2D射击游戏。
 
-
-
-
+https://www.teeworlds.com/ || [teeworlds](https://www.archlinux.org/packages/community/x86_64/teeworlds/)
 
 ![截图_2018-07-03_15-19-20](README-max.assets/截图_2018-07-03_15-19-20.png)
 
@@ -1101,9 +1096,9 @@ http://tome.te4.org/ || [tome4](https://aur.archlinux.org/packages/tome4/)AUR ||
 
 ### Warsow
 
+基于Qfusion引擎的免费在线多人竞争FPS
 
-
-
+https://www.warsow.gg/ || [warsow](https://www.archlinux.org/packages/community/x86_64/warsow/)
 
 ![截图_2018-07-03_15-32-50](README-max.assets/截图_2018-07-03_15-32-50.png)
 
@@ -1129,37 +1124,41 @@ http://sourceforge.net/projects/zaz/ || [zaz](https://www.archlinux.org/packages
 
 
 
-
-
-
-
-
-​	zaz - 泡泡龙版祖玛
-	dwarffortress - 单人游戏幻想游戏。你在随机生成的持久世界中控制矮人前哨或冒险家。
-	minetest - 我的世界
-
-
-
-
-
-#### 未知语言游戏
+## 未知语言游戏（目前想玩的）
 
 
 counter-strike-2d - 反恐精英2D版 - 目前装不上,steam也运行不了
 
 
 
+
+
+
+
+
+
+![Konachan.com - 16 2girls blonde_hair boots hinamori_amu logo mashiro_rima nakayoshi peach-pit pink_hair seifuku short_hair shugo_chara skirt tie yellow_eyes](README-max.assets/Konachan.com - 16 2girls blonde_hair boots hinamori_amu logo mashiro_rima nakayoshi peach-pit pink_hair seifuku short_hair shugo_chara skirt tie yellow_eyes.jpg)
+
+
+
+------
+
+###### 测试分割线，下面有空再修正
+
+------
+
+
 ## steam游戏平台
 
-没有说明都是中文游戏,有的游戏需要MOD来中文化.
+没有说明都是中文游戏,有的游戏需要MOD来中文化.毫不夸张的说！前100的支持中文的Linux游戏．几乎可以收藏。纯网游不算。
 
 
 Terraria - 泰拉瑞亚
-Don't - Starve - 饥荒单机
-Don't - Starve - Together - 饥荒联机版
-Oxygen - Not - Included - 缺氧
-Dungeon - Warfare - 地牢塔防
-Age - of - Conquest - IV - 征服世纪4
+	Don't - Starve - 饥荒单机
+	Don't - Starve - Together - 饥荒联机版
+	Oxygen - Not - Included - 缺氧
+	Dungeon - Warfare - 地牢塔防
+	Age - of - Conquest - IV - 征服世纪4
 
 
 
@@ -1169,7 +1168,7 @@ Age - of - Conquest - IV - 征服世纪4
 
 
 霸王的梦想
-植物大战僵尸 - (什么中文版,年度版)
+	植物大战僵尸 - (什么中文版,年度版)
 
 
 
@@ -1185,11 +1184,11 @@ Age - of - Conquest - IV - 征服世纪4
 
 
 kof - 拳皇系列
-kov - 三国战绩系列
-Metal - Slug - 合金弹头系列
-西游记系列
-恐龙快打二代
-铁钩船长
-达人王2
+	kov - 三国战绩系列
+	Metal - Slug - 合金弹头系列
+	西游记系列
+	恐龙快打二代
+	铁钩船长
+	达人王2
 
 
