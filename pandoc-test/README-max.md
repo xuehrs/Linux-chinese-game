@@ -86,16 +86,6 @@ http://en.cataclysmdda.com/ || [cataclysm-dda](https://www.archlinux.org/package
 
 
 
-### Checkers	跳棋
-
-伴随FLTK的示例游戏：块，跳棋和数独游戏
-
-http://www.fltk.org/ || fltk-[games](https://www.archlinux.org/packages/community/x86_64/fltk-games/)
-
-![截图_2018-07-05_14-58-31](README-max.assets/截图_2018-07-05_14-58-31.png)
-
-
-
 ### Chess 国际象棋
 
 2D国际象棋游戏
@@ -115,48 +105,6 @@ https://ddnet.tw/ || [ddnet](https://aur.archlinux.org/packages/ddnet/)AUR
 ![截图_2018-07-01_20-52-32](README-max.assets/截图_2018-07-01_20-52-32.png)
 
 ![截图_2018-07-01_20-49-56](README-max.assets/截图_2018-07-01_20-49-56.png)
-
-
-
-### Dungeon Crawl Stone Soup
-
-通过充满危险怪物的地下城进行的roguelike探险，以寻找神秘的Zot Orb。
-
-https://crawl.develz.org/ || [crawl-tiles](https://aur.archlinux.org/packages/crawl-tiles/)AUR
-
-![截图_2018-07-05_15-05-13](README-max.assets/截图_2018-07-05_15-05-13.png)
-
-![dcss-splash-6](README-max.assets/dcss-splash-6.png)
-
-![dcss-splash-0](README-max.assets/dcss-splash-0.png)
-
-![dcss-splash-2](README-max.assets/dcss-splash-2.png)
-
-![dcss-splash-8](README-max.assets/dcss-splash-8.png)
-
-![dcss-splash-4](README-max.assets/dcss-splash-4.png)
-
-![dcss-splash-7](README-max.assets/dcss-splash-7.png)
-
-### Dwarf Fortress
-
-一个单人幻想游戏，你可以在这个游戏中建立一个矮人前哨或在随机生成的世界中扮演一个冒险家。这个游戏有很多不同版本的图形前端。
-
-http://www.bay12games.com/dwarves/ || [dwarffortress](https://www.archlinux.org/packages/community/x86_64/dwarffortress/)
-
-http://www.dwarffortresswiki.org/index.php/DF2014:Installation#Download || [dwarffortress-ironhand](https://aur.archlinux.org/packages/dwarffortress-ironhand/)AUR || [dwarffortress-phoebus](https://aur.archlinux.org/packages/dwarffortress-phoebus/)AUR
-
-![截图_2018-07-05_15-06-43](README-max.assets/截图_2018-07-05_15-06-43.png)		
-
-
-
-### Extreme Tux Racer 企鹅滑雪极限版
-
-谁说企鹅不会飞？冬天来临，冰雪开始慢慢地封住山峦。你想知道山坡雪地下滑的速度极限？还是想体验惊险刺激？
-
-http://sourceforge.net/projects/extremetuxracer/ || [extremetuxracer](https://www.archlinux.org/packages/community/x86_64/extremetuxracer/)
-
-![截图_2018-07-05_16-39-06](README-max.assets/截图_2018-07-05_16-39-06.png)
 
 
 
@@ -658,16 +606,6 @@ https://kde.org/applications/games/lskat/ || [lskat](https://www.archlinux.org/p
 
 
 
-### Mahjong　麻将
-
-具有网络支持的Mah Jong经典游戏（不是solitare版本）。
-
-http://mahjong.julianbradfield.org/ || [mahjong](https://www.archlinux.org/packages/community/x86_64/mahjong/)
-
-![截图_2018-07-05_17-20-12](README-max.assets/截图_2018-07-05_17-20-12.png)
-
-
-
 ### Mahjongg	麻将对对碰
 
 经典东方瓷砖游戏Mahjongg的单人纸牌（单人游戏）版本。目标是选择相似的瓷砖对。
@@ -687,16 +625,6 @@ https://megaglest.org || [megaglest](https://www.archlinux.org/packages/communit
 ![截图_2018-07-03_14-52-57](README-max.assets/截图_2018-07-03_14-52-57.png)
 
 ![截图_2018-07-03_14-57-03](README-max.assets/截图_2018-07-03_14-57-03.png)
-
-
-
-### Minecraft	我的世界
-
-一个开放世界的游戏，其游戏玩法围绕打破和放置块。
-
-http://www.minecraft.net/ || [minecraft](https://aur.archlinux.org/packages/minecraft/)
-
-![截图_2018-07-05_17-22-28](README-max.assets/截图_2018-07-05_17-22-28.png)
 
 
 
@@ -762,16 +690,6 @@ https://kde.org/applications/games/klickety/ || [klickety](https://www.archlinux
 
 
 
-### Simutrans
-
-一个开源运输模拟游戏。
-
-https://www.simutrans.com/ || [simutrans](https://www.archlinux.org/packages/community/x86_64/simutrans/) || [simutrans-pak128](https://www.archlinux.org/packages/community/any/simutrans-pak128/)
-
-![截图_2018-07-05_17-37-31](README-max.assets/截图_2018-07-05_17-37-31.png)
-
-
-
 ### sudoku	数独
 
 通过这个数字格子解谜游戏测试您的逻辑能力
@@ -789,26 +707,6 @@ https://wiki.gnome.org/Apps/Sudoku || [gnome-sudoku](https://www.archlinux.org/p
 https://github.com/supertux/supertux || [supertux](https://www.archlinux.org/packages/community/x86_64/simutrans/)
 
 ![截图_2018-07-05_17-45-00](README-max.assets/截图_2018-07-05_17-45-00.png)
-
-
-
-### Speed Dreams
-
-具有丰富图形和物理特性的赛车模拟器。
-
-http://speed-dreams.sourceforge.net/ || [speed-dreams](https://www.archlinux.org/packages/community/x86_64/speed-dreams/)
-
-![截图_2018-07-05_17-41-40](README-max.assets/截图_2018-07-05_17-41-40.png)
-
-
-
-### SuperTuxKart
-
-卡特赛车游戏以Tux和他的朋友为特色。
-
-http://supertuxkart.sourceforge.net/ || [supertuxkart](https://www.archlinux.org/packages/community/x86_64/supertuxkart/)
-
-![截图_2018-07-05_17-47-02](README-max.assets/截图_2018-07-05_17-47-02.png)
 
 
 
@@ -866,16 +764,6 @@ https://www.wesnoth.org/ || [wesnoth](https://www.archlinux.org/packages/commu
 
 
 
-### ToME4
-
-一个开源的，单人游戏，角色扮演类游戏，在EAYL的世界。
-
-http://tome.te4.org/ || [tome4](https://aur.archlinux.org/packages/tome4/)AUR || [tome4-beta](https://aur.archlinux.org/packages/tome4-beta/)AUR || [tome4-git](https://aur.archlinux.org/packages/tome4-git/)AUR
-
-![截图_2018-07-05_17-51-55](README-max.assets/截图_2018-07-05_17-51-55.png)
-
-
-
 ### Nibbles	贪吃蛇
 
 休闲 - 多人: 小蛇游走于迷宫
@@ -900,25 +788,6 @@ http://widelands.org/ || [widelands](https://www.archlinux.org/packages/communit
 
 ![截图_2018-07-05_17-55-37](README-max.assets/截图_2018-07-05_17-55-37.png)
 
-
-
-### Xmoto
-
-具有挑战性的2D越野摩托车平台游戏，其中物理起着重要作用。
-
-http://xmoto.tuxfamily.org/ || [xmoto](https://www.archlinux.org/packages/community/x86_64/xmoto/)
-
-![截图_2018-07-05_17-59-09](README-max.assets/截图_2018-07-05_17-59-09.png)
-
-
-
-### Zaz
-
-操作风格类似泡泡龙版祖玛
-
-http://sourceforge.net/projects/zaz/ || [zaz](https://www.archlinux.org/packages/community/x86_64/zaz/)
-
-![截图_2018-07-05_18-01-53](README-max.assets/截图_2018-07-05_18-01-53.png)
 
 
 
@@ -1014,27 +883,127 @@ http://abuse.zoy.org/ || [abuse](https://www.archlinux.org/packages/community/x8
 
 
 
+
+
+### Checkers	跳棋
+
+伴随FLTK的示例游戏：块，跳棋和数独游戏
+
+http://www.fltk.org/ || fltk-[games](https://www.archlinux.org/packages/community/x86_64/fltk-games/)
+
+![截图_2018-07-05_14-58-31](README-max.assets/截图_2018-07-05_14-58-31.png)
+
+
+
 ### Dungeon Crawl Stone Soup
 
+通过充满危险怪物的地下城进行的roguelike探险，以寻找神秘的Zot Orb。
 
+https://crawl.develz.org/ || [crawl-tiles](https://aur.archlinux.org/packages/crawl-tiles/)AUR
 
 ![截图_2018-07-02_20-46-06](README-max.assets/截图_2018-07-02_20-46-06.png)
 
 ![截图_2018-07-02_20-45-14](README-max.assets/截图_2018-07-02_20-45-14.png)
 
+![截图_2018-07-05_15-05-13](README-max.assets/截图_2018-07-05_15-05-13.png)
+
+![dcss-splash-6](README-max.assets/dcss-splash-6.png)
+
+![dcss-splash-0](README-max.assets/dcss-splash-0.png)
+
+![dcss-splash-2](README-max.assets/dcss-splash-2.png)
+
+![dcss-splash-8](README-max.assets/dcss-splash-8.png)
+
+![dcss-splash-4](README-max.assets/dcss-splash-4.png)
+
+![dcss-splash-7](README-max.assets/dcss-splash-7.png)
+
+
+
 ### Dwarf Fortress
 
-独立 - 生存 - 地牢 - 随机地图:单人游戏幻想游戏。你在随机生成的持久世界中控制矮人前哨或冒险家。
+独立 - 生存 - 地牢 - 随机地图:一个单人幻想游戏，你可以在这个游戏中建立一个矮人前哨或在随机生成的世界中扮演一个冒险家。这个游戏有很多不同版本的图形前端。
 
 http://www.bay12games.com/dwarves/ || [dwarffortress](https://www.archlinux.org/packages/community/x86_64/dwarffortress/)
 
+http://www.dwarffortresswiki.org/index.php/DF2014:Installation#Download || [dwarffortress-ironhand](https://aur.archlinux.org/packages/dwarffortress-ironhand/)AUR || [dwarffortress-phoebus](https://aur.archlinux.org/packages/dwarffortress-phoebus/)AUR
+
+![截图_2018-07-05_15-06-43](README-max.assets/截图_2018-07-05_15-06-43.png)		
 
 
 
+### Extreme Tux Racer 企鹅滑雪极限版
+
+谁说企鹅不会飞？冬天来临，冰雪开始慢慢地封住山峦。你想知道山坡雪地下滑的速度极限？还是想体验惊险刺激？
+
+http://sourceforge.net/projects/extremetuxracer/ || [extremetuxracer](https://www.archlinux.org/packages/community/x86_64/extremetuxracer/)
+
+![截图_2018-07-05_16-39-06](README-max.assets/截图_2018-07-05_16-39-06.png)
 
 
 
-### Gweled	
+### FreeDroid
+
+Commodore 64上经典游戏'Paradroid'的克隆版，通过摧毁它们或通过迷你游戏将它们带走来清除敌方机器人的太空船队。
+
+http://freedroid.sourceforge.net/ || [freedroid](https://www.archlinux.org/packages/community/x86_64/freedroid/)
+
+![截图_2018-07-05_16-50-32](README-max.assets/截图_2018-07-05_16-50-32.png)
+
+
+
+### Mahjong　麻将
+
+具有网络支持的Mah Jong经典游戏（不是solitare版本）。
+
+http://mahjong.julianbradfield.org/ || [mahjong](https://www.archlinux.org/packages/community/x86_64/mahjong/)
+
+![截图_2018-07-05_17-20-12](README-max.assets/截图_2018-07-05_17-20-12.png)
+
+
+
+### Minecraft	我的世界
+
+一个开放世界的游戏，其游戏玩法围绕打破和放置块。
+
+http://www.minecraft.net/ || [minecraft](https://aur.archlinux.org/packages/minecraft/)
+
+![截图_2018-07-05_17-22-28](README-max.assets/截图_2018-07-05_17-22-28.png)
+
+
+
+### Simutrans
+
+一个开源运输模拟游戏。
+
+https://www.simutrans.com/ || [simutrans](https://www.archlinux.org/packages/community/x86_64/simutrans/) || [simutrans-pak128](https://www.archlinux.org/packages/community/any/simutrans-pak128/)
+
+![截图_2018-07-05_17-37-31](README-max.assets/截图_2018-07-05_17-37-31.png)
+
+
+
+### Speed Dreams
+
+具有丰富图形和物理特性的赛车模拟器。
+
+http://speed-dreams.sourceforge.net/ || [speed-dreams](https://www.archlinux.org/packages/community/x86_64/speed-dreams/)
+
+![截图_2018-07-05_17-41-40](README-max.assets/截图_2018-07-05_17-41-40.png)
+
+
+
+### SuperTuxKart
+
+卡特赛车游戏以Tux和他的朋友为特色。
+
+http://supertuxkart.sourceforge.net/ || [supertuxkart](https://www.archlinux.org/packages/community/x86_64/supertuxkart/)
+
+![截图_2018-07-05_17-47-02](README-max.assets/截图_2018-07-05_17-47-02.png)
+
+
+
+### Gweled
 
 
 
@@ -1116,13 +1085,47 @@ http://www.roguebasin.com/index.php?title=Rogue || [rogue](https://www.archlinux
 
 
 
-### Warsow	
+### ToME4
+
+一个开源的，单人游戏，角色扮演类游戏，在EAYL的世界。
+
+http://tome.te4.org/ || [tome4](https://aur.archlinux.org/packages/tome4/)AUR || [tome4-beta](https://aur.archlinux.org/packages/tome4-beta/)AUR || [tome4-git](https://aur.archlinux.org/packages/tome4-git/)AUR
+
+![截图_2018-07-05_17-51-55](README-max.assets/截图_2018-07-05_17-51-55.png)
+
+
+
+### Warsow
 
 
 
 
 
 ![截图_2018-07-03_15-32-50](README-max.assets/截图_2018-07-03_15-32-50.png)
+
+
+
+### Xmoto
+
+具有挑战性的2D越野摩托车平台游戏，其中物理起着重要作用。
+
+http://xmoto.tuxfamily.org/ || [xmoto](https://www.archlinux.org/packages/community/x86_64/xmoto/)
+
+![截图_2018-07-05_17-59-09](README-max.assets/截图_2018-07-05_17-59-09.png)
+
+
+
+### Zaz
+
+操作风格类似泡泡龙版祖玛
+
+http://sourceforge.net/projects/zaz/ || [zaz](https://www.archlinux.org/packages/community/x86_64/zaz/)
+
+![截图_2018-07-05_18-01-53](README-max.assets/截图_2018-07-05_18-01-53.png)
+
+
+
+
 
 
 
