@@ -356,6 +356,16 @@ https://kde.org/applications/games/kgoldrunner/ || [kgoldrunner](https://www.arc
 
 
 
+### KHangMan	吊颈人游戏
+
+**KHangMan**是一款基于着名的刽子手游戏的游戏。它针对六岁及以上的儿童。游戏中有几类词语可供使用，例如：动物（动物词）和三种难度类别：简单，中等和难度。随机挑选一个单词，隐藏字母，你必须通过尝试一个接一个的字母来猜测单词。每当你猜错了一个字母，就会画一部刽子手的照片。在被绞死之前你必须猜出这个词！你有10次尝试。
+
+https://kde.org/applications/education/khangman/ || [khangman](https://www.archlinux.org/packages/extra/x86_64/khangman/)
+
+![截图_2018-07-03_21-51-28](README-max.assets/截图_2018-07-03_21-51-28.png)
+
+
+
 ### Kigo	围棋
 
 围棋游戏
@@ -953,6 +963,36 @@ http://freedroid.sourceforge.net/ || [freedroid](https://www.archlinux.org/packa
 
 
 
+### Gweled
+
+
+
+
+
+![截图_2018-07-05_17-05-42](README-max.assets/截图_2018-07-05_17-05-42.png)
+
+
+
+### kanagram	字母顺序游戏
+
+
+
+
+
+![截图_2018-07-03_21-18-46](README-max.assets/截图_2018-07-03_21-18-46-1530624084806.png)
+
+
+
+### Kcheckers	跳棋
+
+基于Qt4的跳棋棋盘游戏
+
+http://qcheckers.sourceforge.net/ || [kcheckers](https://www.archlinux.org/packages/community/x86_64/kcheckers/)
+
+![截图_2018-07-03_21-42-06](README-max.assets/截图_2018-07-03_21-42-06.png)
+
+
+
 ### Mahjong　麻将
 
 具有网络支持的Mah Jong经典游戏（不是solitare版本）。
@@ -970,6 +1010,28 @@ http://mahjong.julianbradfield.org/ || [mahjong](https://www.archlinux.org/packa
 http://www.minecraft.net/ || [minecraft](https://aur.archlinux.org/packages/minecraft/)
 
 ![截图_2018-07-05_17-22-28](README-max.assets/截图_2018-07-05_17-22-28.png)
+
+
+
+### NetHack
+
+独立 - 生存 - 地牢 - 随机地图:30多年文字游戏,不知道是不是网游?(纯英文)
+
+http://www.nethack.org/index.html || [nethack](https://www.archlinux.org/packages/community/x86_64/nethack/)
+
+![截图_2018-07-06_10-08-00](README-max.assets/截图_2018-07-06_10-08-00.png)
+
+![截图_2018-07-02_19-54-50](README-max.assets/截图_2018-07-02_19-54-50.png)
+
+
+
+### Rogue
+
+原始的地下城爬行游戏。没有图形界面，终端rogue运行。
+
+http://www.roguebasin.com/index.php?title=Rogue || [rogue](https://www.archlinux.org/packages/community/x86_64/rogue/)
+
+![截图_2018-07-06_08-33-22](README-max.assets/截图_2018-07-06_08-33-22.png)
 
 
 
@@ -1002,64 +1064,6 @@ http://supertuxkart.sourceforge.net/ || [supertuxkart](https://www.archlinux.org
 ![截图_2018-07-05_17-47-02](README-max.assets/截图_2018-07-05_17-47-02.png)
 
 
-
-### Gweled
-
-
-
-
-
-![截图_2018-07-05_17-05-42](README-max.assets/截图_2018-07-05_17-05-42.png)
-
-
-
-### kanagram	字母顺序游戏
-
-
-
-
-
-![截图_2018-07-03_21-18-46](README-max.assets/截图_2018-07-03_21-18-46-1530624084806.png)
-
-
-
-### Kcheckers	跳棋
-
-基于Qt4的跳棋棋盘游戏
-
-http://qcheckers.sourceforge.net/ || [kcheckers](https://www.archlinux.org/packages/community/x86_64/kcheckers/)
-
-![截图_2018-07-03_21-42-06](README-max.assets/截图_2018-07-03_21-42-06.png)
-
-
-
-### KHangMan	吊颈人游戏
-
-**KHangMan**是一款基于着名的刽子手游戏的游戏。它针对六岁及以上的儿童。游戏中有几类词语可供使用，例如：动物（动物词）和三种难度类别：简单，中等和难度。随机挑选一个单词，隐藏字母，你必须通过尝试一个接一个的字母来猜测单词。每当你猜错了一个字母，就会画一部刽子手的照片。在被绞死之前你必须猜出这个词！你有10次尝试。
-
-https://kde.org/applications/education/khangman/ || [khangman](https://www.archlinux.org/packages/extra/x86_64/khangman/)
-
-![截图_2018-07-03_21-51-28](README-max.assets/截图_2018-07-03_21-51-28.png)
-
-
-
-### NetHack
-
-独立 - 生存 - 地牢 - 随机地图:30多年文字游戏,不知道是不是网游?(纯英文)
-
-http://www.nethack.org/index.html || [nethack](https://www.archlinux.org/packages/community/x86_64/nethack/)
-
-![截图_2018-07-02_19-53-02](README-max.assets/截图_2018-07-02_19-53-02.png)
-
-![截图_2018-07-02_19-54-50](README-max.assets/截图_2018-07-02_19-54-50.png)
-
-
-
-### Rogue　
-
-原始的地下城爬行游戏。没有图形界面，终端rogue运行。
-
-http://www.roguebasin.com/index.php?title=Rogue || [rogue](https://www.archlinux.org/packages/community/x86_64/rogue/)
 
 ### Shattered Pixel Dungeon
 
